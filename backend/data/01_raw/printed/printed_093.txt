@@ -1,0 +1,1 @@
+Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.

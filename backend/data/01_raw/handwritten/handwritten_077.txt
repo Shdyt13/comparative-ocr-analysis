@@ -1,0 +1,1 @@
+Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.

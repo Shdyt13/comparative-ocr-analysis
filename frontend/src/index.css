@@ -1,0 +1,26 @@
+/* --- RESET CSS GLOBAL --- */
+html, body, #root {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1f5f9; /* Warna abu-abu terang seragam dengan App.jsx */
+}
+
+/* Memastikan elemen tidak meluber */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.lucide-spin { animation: spin 2s linear infinite; }
+@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+/* Animasi Loading Berputar */
+.lucide-spin { 
+  animation: spin 1s linear infinite; 
+}
+
+@keyframes spin { 
+  from { transform: rotate(0deg); } 
+  to { transform: rotate(360deg); } 
+}

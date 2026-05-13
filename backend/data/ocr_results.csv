@@ -1,0 +1,1201 @@
+image_id,method,extracted_text,processing_time
+printed_001_blur,Tesseract,,0.735
+printed_001_blur,EasyOCR,oacooa 0,3.7022
+printed_001_blur,PaddleOCR,iniadaiah contohkalmat pertamauntukpenguiar OCR.,1.1306
+printed_001_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4937
+printed_001_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,3.2066
+printed_001_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4873
+printed_001_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3909
+printed_001_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.6582
+printed_001_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6306
+printed_001_rotated,Tesseract,Ini adalah contoh Kalimat pertama untuk pengujian OCR.,0.501
+printed_001_rotated,EasyOCR,untuk adalah contoh kalimat OCR. pengujlan Pertama,2.5353
+printed_001_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4672
+printed_002_blur,Tesseract,Ia alah ee Kalung perms mna prea on,0.3919
+printed_002_blur,EasyOCR,Ql,2.7719
+printed_002_blur,PaddleOCR,Ini adatah contoh kalimat pertama untuk pengujia OCR,0.3526
+printed_002_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4483
+printed_002_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR_,2.5408
+printed_002_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6528
+printed_002_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3967
+printed_002_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.5626
+printed_002_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,0.3868
+printed_002_rotated,Tesseract,"ni adalah contoh kalimat pertama aa apn OCR,",0.3655
+printed_002_rotated,EasyOCR,untuk Ini adalah kalimat ) OCR peugujıan Pertana contob,3.0492
+printed_002_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,0.3872
+printed_003_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.4077
+printed_003_blur,EasyOCR,Intadalan conton Kalimat pertama untuk penquan OCR,2.7498
+printed_003_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.515
+printed_003_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5555
+printed_003_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,3.0527
+printed_003_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4165
+printed_003_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4165
+printed_003_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.716
+printed_003_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4314
+printed_003_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4092
+printed_003_rotated,EasyOCR,kalimat pertama Ini adalah OCR. pengujian untuk contoh,2.8742
+printed_003_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5998
+printed_004_blur,Tesseract,Oy aan COMO Makna pertama wha pergunan 0.,0.4789
+printed_004_blur,EasyOCR,Ooh,2.3633
+printed_004_blur,PaddleOCR,ini adaiah conton kalimat pertama untuk pengujian OCR,0.407
+printed_004_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.514
+printed_004_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.5266
+printed_004_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4954
+printed_004_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5166
+printed_004_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.6448
+printed_004_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6068
+printed_004_rotated,Tesseract,Ini adatan contoh kalimat pertama untuk pengujian OCR.,0.5141
+printed_004_rotated,EasyOCR,untuk adalah kalimat OCR pengujian pertamna contoh,2.598
+printed_004_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4829
+printed_005_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.5876
+printed_005_blur,EasyOCR,Inlodalah contoh Kallmat portama untuk ponoullan OCR,2.5424
+printed_005_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6304
+printed_005_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6216
+printed_005_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.6042
+printed_005_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4154
+printed_005_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5701
+printed_005_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.3051
+printed_005_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.516
+printed_005_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4403
+printed_005_rotated,EasyOCR,untuk Ini adalah contoh kalimat OCR pengujian pertama,2.6366
+printed_005_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5691
+printed_006_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.3915
+printed_006_blur,EasyOCR,IolOalsl (ooioa Aahuoi Petioue Origap rerile Oek,2.4298
+printed_006_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5484
+printed_006_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.2964
+printed_006_dark,EasyOCR,Ini adalah contob kalimat pertama untuk pengujian OCR _,2.4866
+printed_006_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5037
+printed_006_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3399
+printed_006_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.6284
+printed_006_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.7805
+printed_006_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4585
+printed_006_rotated,EasyOCR,untuk adalah kalimat OCR. pengujian pertama coutol Ini,2.8201
+printed_006_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5913
+printed_007_blur,Tesseract,,0.5432
+printed_007_blur,EasyOCR,oacooa 0,3.1478
+printed_007_blur,PaddleOCR,iniadaiah contohkalmat pertamauntukpenguiar OCR.,0.7631
+printed_007_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3319
+printed_007_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.669
+printed_007_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3596
+printed_007_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3966
+printed_007_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.8688
+printed_007_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4845
+printed_007_rotated,Tesseract,Ini adalah contoh Kalimat pertama untuk pengujian OCR.,0.6634
+printed_007_rotated,EasyOCR,untuk adalah contoh kalimat OCR. pengujlan Pertama,2.8519
+printed_007_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5764
+printed_008_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian coca.,0.7164
+printed_008_blur,EasyOCR,{6l Gaalan Coaron {ler Derran Carur Denqyjion Ocr :,3.3765
+printed_008_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.547
+printed_008_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.2942
+printed_008_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR .,3.6789
+printed_008_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujiar OCR.,0.8788
+printed_008_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4864
+printed_008_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.8037
+printed_008_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujiar OCR.,0.6706
+printed_008_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4987
+printed_008_rotated,EasyOCR,ian kalimat Ini OCR. penguj untuk pertana contoh adalah,2.811
+printed_008_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5596
+printed_009_blur,Tesseract,Int edelen conten kalimat pertama watak pengujian,0.4863
+printed_009_blur,EasyOCR,,2.478
+printed_009_blur,PaddleOCR,Ini adalah conteh kalimat pertama untuk pengujian OC.R.,0.4482
+printed_009_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian ocr.,0.4589
+printed_009_dark,EasyOCR,Ini adalah ccntch kalima pertama untuk pengujian OCR .,2.7795
+printed_009_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6273
+printed_009_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian ocr.,0.4197
+printed_009_normal,EasyOCR,In1 adalah catc: kalima pertama untuk pengujian OcR.,2.7132
+printed_009_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.647
+printed_009_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian ocr.,0.3926
+printed_009_rotated,EasyOCR,uncuk Penguj ian contoh kalima Pertama In1 adalah OCR.,2.3915
+printed_009_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4862
+printed_010_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.361
+printed_010_blur,EasyOCR,Intodalah conton Bolimat portomguntuk ponoujon OCr,2.6204
+printed_010_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3914
+printed_010_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4416
+printed_010_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.3912
+printed_010_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4335
+printed_010_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3433
+printed_010_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.5247
+printed_010_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4558
+printed_010_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3667
+printed_010_rotated,EasyOCR,untuk Ini adalah contoh kalimat OCR. pengujian pertama,2.3752
+printed_010_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3798
+printed_011_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.467
+printed_011_blur,EasyOCR,Intadalan conton Kalimat pertama untuk penquan OCR,2.5854
+printed_011_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4508
+printed_011_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4224
+printed_011_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.5206
+printed_011_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4024
+printed_011_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3863
+printed_011_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.5496
+printed_011_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4315
+printed_011_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4652
+printed_011_rotated,EasyOCR,kalimat pertama Ini adalah OCR. pengujian untuk contoh,2.5825
+printed_011_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6103
+printed_012_blur,Tesseract,TN aah LAM Matana Pen ama ont peng ane,0.4231
+printed_012_blur,EasyOCR,,2.1334
+printed_012_blur,PaddleOCR,ini adalahcontoh kalimat pertama untuk pengujian OCR,0.3466
+printed_012_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian ocr.,0.3306
+printed_012_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.3656
+printed_012_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4181
+printed_012_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian ‘ocr.,0.5489
+printed_012_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,5.0149
+printed_012_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.804
+printed_012_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6008
+printed_012_rotated,EasyOCR,"Ini adalah contoh kalimat OCR. pengujian untuk pertama ,",3.1649
+printed_012_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5047
+printed_013_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4445
+printed_013_blur,EasyOCR,In adalan Contoh Kalimal Pertana Unluk Penqvjian OCR .,2.9977
+printed_013_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5409
+printed_013_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4893
+printed_013_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR _,2.4696
+printed_013_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5899
+printed_013_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4688
+printed_013_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,3.0298
+printed_013_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4502
+printed_013_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5574
+printed_013_rotated,EasyOCR,ian untuk contoh kalimat Ini adalah OCR penguj pertama,3.0905
+printed_013_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6281
+printed_014_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.4838
+printed_014_blur,EasyOCR,Inlodalah contoh Kallmat portama untuk ponoullan OCR,2.3972
+printed_014_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6813
+printed_014_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4995
+printed_014_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.9262
+printed_014_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4321
+printed_014_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4338
+printed_014_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.695
+printed_014_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4969
+printed_014_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.648
+printed_014_rotated,EasyOCR,untuk Ini adalah contoh kalimat OCR pengujian pertama,2.8443
+printed_014_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5861
+printed_015_blur,Tesseract,IN 2AMIN Conton tate at pertama untu penganan —.,0.4793
+printed_015_blur,EasyOCR,Lcaaanconon OCe,2.8651
+printed_015_blur,PaddleOCR,ini adalah conton kalmat pertamauntukpenguiar OCR.,0.5559
+printed_015_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.364
+printed_015_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.2737
+printed_015_dark,PaddleOCR,Ini adalah contoh kalimatpertama untukpengujian OCR.,0.6931
+printed_015_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4227
+printed_015_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.4702
+printed_015_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5423
+printed_015_rotated,Tesseract,ini adalah contoh kalimat pertama untuk pengullan OCR.,0.5023
+printed_015_rotated,EasyOCR,untuk pengujian adalah kalimat OCR. pertama contoh,2.9865
+printed_015_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5186
+printed_016_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian oa.,0.567
+printed_016_blur,EasyOCR,{6l eeeee 8ee Unrur Denqyjian OCR,2.9387
+printed_016_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5242
+printed_016_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5787
+printed_016_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.9951
+printed_016_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.7079
+printed_016_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3431
+printed_016_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.3768
+printed_016_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujiar OCR.,0.6988
+printed_016_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3823
+printed_016_rotated,EasyOCR,ian contoh kalimat Ini adalah OCR. penguj untuk pertama,2.9654
+printed_016_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4567
+printed_017_blur,Tesseract,Itu adalah contoh kalunat pertama untuk pengujan,0.4617
+printed_017_blur,EasyOCR,In eulab cquob Laluns oR,2.6248
+printed_017_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.44
+printed_017_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3815
+printed_017_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.3651
+printed_017_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5217
+printed_017_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3949
+printed_017_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.5128
+printed_017_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3807
+printed_017_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3455
+printed_017_rotated,EasyOCR,untuk kalimat OCR pengujian Pertamna contoh adalah Ini,2.5982
+printed_017_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujiar OCR.,0.425
+printed_018_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OcR.,0.5224
+printed_018_blur,EasyOCR,1nl adalah Conloh Kalina{ Peftana Unluk Penqujian oRe,2.8509
+printed_018_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4717
+printed_018_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4357
+printed_018_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.5213
+printed_018_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6089
+printed_018_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3362
+printed_018_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.509
+printed_018_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.6324
+printed_018_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.487
+printed_018_rotated,EasyOCR,untuk pengujian contoh kalimat Ini ah OCR pertama adal,2.9507
+printed_018_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5518
+printed_019_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5286
+printed_019_blur,EasyOCR,Int odalah contoh Kalmat patama untuk pengujuan OCR,2.52
+printed_019_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3517
+printed_019_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3757
+printed_019_dark,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.4726
+printed_019_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3602
+printed_019_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4165
+printed_019_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR,2.4685
+printed_019_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3889
+printed_019_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.434
+printed_019_rotated,EasyOCR,adalah kalimat pertama Ini pengujian untuk contoh OCR,2.9684
+printed_019_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4717
+printed_020_blur,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian,0.4421
+printed_020_blur,EasyOCR,Ios alab (Ooigb Aabuaiyn Peerine Oek,2.7514
+printed_020_blur,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3897
+printed_020_dark,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4736
+printed_020_dark,EasyOCR,Ini adalab contoh kalimat pertama untuk pengujian OCR_,2.5581
+printed_020_dark,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.5489
+printed_020_normal,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.3699
+printed_020_normal,EasyOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,2.8888
+printed_020_normal,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4992
+printed_020_rotated,Tesseract,Ini adalah contoh kalimat pertama untuk pengujian OCR.,0.4153
+printed_020_rotated,EasyOCR,untuk Ini adalah contoh kalimat OCR pengujian pertama,2.5247
+printed_020_rotated,PaddleOCR,Ini adalah contoh kalimat pertama untuk pengujiar OCR.,0.5222
+printed_021_blur,Tesseract,Sistem imi digunakan untuk membandingkan performa metode OCR.,0.4987
+printed_021_blur,EasyOCR,Sistem ini dicunakan untuk membandinckan pertorma mclode OCR,2.7166
+printed_021_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.4595
+printed_021_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3811
+printed_021_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.6823
+printed_021_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4799
+printed_021_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4424
+printed_021_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.8087
+printed_021_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4683
+printed_021_rotated,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4964
+printed_021_rotated,EasyOCR,ini Ldigunakan untuk membandingkan Sistem OCR performa metode,2.5854
+printed_021_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3735
+printed_022_blur,Tesseract,a. 20 Ktu Tn mah sn dangh 20 pan ha ma 0. KN,0.4187
+printed_022_blur,EasyOCR,(,2.3412
+printed_022_blur,PaddleOCR,Sistem ini digunakanmtuk membandingkan perform metodeOCR,0.3579
+printed_022_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4217
+printed_022_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.4692
+printed_022_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3656
+printed_022_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3394
+printed_022_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.5939
+printed_022_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4217
+printed_022_rotated,Tesseract,sistem ini digunakan untuk membandingkan performa metode OCR.,0.4799
+printed_022_rotated,EasyOCR,membandingkan Sistem ini digunakan metode OCR performa untuk,2.6187
+printed_022_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.3284
+printed_023_blur,Tesseract,,0.2771
+printed_023_blur,EasyOCR,,2.2384
+printed_023_blur,PaddleOCR,Sistem ani digunakan untuk membandingkan per forma,0.5185
+printed_023_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4643
+printed_023_dark,EasyOCR,Sistem ini digunakan untuk membandingkan perfcrna metcde OCR,2.5583
+printed_023_dark,PaddleOCR,sistem ini digunakan untuk membandingkan performa metodeocR.,0.598
+printed_023_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4236
+printed_023_normal,EasyOCR,Sistem 111 digunakan untuk membandingkan perfcrma Ietcde OCR,2.7098
+printed_023_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.5665
+printed_023_rotated,Tesseract,sistem ini digunakan untuk membandingkan performa metode OCR-,0.4455
+printed_023_rotated,EasyOCR,Mem andingka? digunaka? S1stem metode OCR. Performa uaruk 192,2.5619
+printed_023_rotated,PaddleOCR,sistem ini digunakan untuk membandingkan performe metodeocR.,0.5712
+printed_024_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4346
+printed_024_blur,EasyOCR,sistcm ini digunakap unluk mcmbandinekap perlorn nclode oCK,2.8288
+printed_024_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4182
+printed_024_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4143
+printed_024_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.5575
+printed_024_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.398
+printed_024_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3526
+printed_024_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.3309
+printed_024_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.4794
+printed_024_rotated,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4184
+printed_024_rotated,EasyOCR,ini I digunakan untuk membandingkan Sistemn metode OCR performa,2.7952
+printed_024_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4856
+printed_025_blur,Tesseract,tanu enda enh amangn tan,0.4684
+printed_025_blur,EasyOCR,,2.2474
+printed_025_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode-OcR,0.3643
+printed_025_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3757
+printed_025_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.4271
+printed_025_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3838
+printed_025_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3919
+printed_025_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.4411
+printed_025_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.3939
+printed_025_rotated,Tesseract,sistem ini digunakan untuk membandingkan performa metode OCR.,0.5018
+printed_025_rotated,EasyOCR,untuk membandingkan Sistem ini digunakan OCR. performa metode,2.3752
+printed_025_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3524
+printed_026_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4341
+printed_026_blur,EasyOCR,Shtem ini digunakap unluk mcmbandipekan pcılorn InclodeOCk,2.9226
+printed_026_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4497
+printed_026_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5917
+printed_026_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.476
+printed_026_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4228
+printed_026_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3954
+printed_026_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.278
+printed_026_normal,PaddleOCR,Sistem ini digunakan untukmembandingkan performa metode OCR.,0.5486
+printed_026_rotated,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3975
+printed_026_rotated,EasyOCR,untuk membandingkan Sistem ini digunakan metode performa OCR.,2.4086
+printed_026_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3944
+printed_027_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4789
+printed_027_blur,EasyOCR,Sistem Inidiunakanuntuk membandingken performe mctode OCR,2.6517
+printed_027_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.5535
+printed_027_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4291
+printed_027_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR_,2.5592
+printed_027_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3748
+printed_027_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.6711
+printed_027_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR_,2.5205
+printed_027_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.6127
+printed_027_rotated,Tesseract,ntuk membandingkan performa Sistem ini digunakan U metode OCR.,0.4356
+printed_027_rotated,EasyOCR,ini digunakan untuk membandingkan Sistem metode OCR. performa,2.5387
+printed_027_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4007
+printed_028_blur,Tesseract,a. 20 Mt ah Kn ma sn dangh 20 pa Naa ma AKN,0.4753
+printed_028_blur,EasyOCR,04,2.21
+printed_028_blur,PaddleOCR,Sistem ini digunakanuntukmembandingkan per lorm metodeOCR,0.3897
+printed_028_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.405
+printed_028_dark,EasyOCR,Sistem ini digunakan membandingkan performa metode OCR utuk-,2.6615
+printed_028_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4634
+printed_028_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.31
+printed_028_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.5966
+printed_028_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3788
+printed_028_rotated,Tesseract,sistem ini digunakan untuk: membandingkan performa metode OCR.,0.4551
+printed_028_rotated,EasyOCR,untuk membandingkan Sistem ini digunakan metode performa OCR,2.4255
+printed_028_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3405
+printed_029_blur,Tesseract,Geen mqpnen ets ememege patos,0.3948
+printed_029_blur,EasyOCR,n,2.2864
+printed_029_blur,PaddleOCR,Sestem ini dgunakan untukmembandingkan pertorm metode OCR,0.4793
+printed_029_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa. metode OCR.,0.5269
+printed_029_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.6138
+printed_029_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5846
+printed_029_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3952
+printed_029_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.2727
+printed_029_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3653
+printed_029_rotated,Tesseract,“Sistem ini cigunakan untuk membandingkan performa metode OCR.,0.5156
+printed_029_rotated,EasyOCR,membandingkan performa untuk Sistem inı OCR digunakan metode,2.4681
+printed_029_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.4757
+printed_030_blur,Tesseract,Sistem imi digunakan untuk membandingkan performa metode OCR.,0.3784
+printed_030_blur,EasyOCR,Sistem ini dicunakan untuk membandinckan pertorma mclode OCR,2.3411
+printed_030_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.5431
+printed_030_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4036
+printed_030_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.3313
+printed_030_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4038
+printed_030_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4495
+printed_030_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.3976
+printed_030_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5895
+printed_030_rotated,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4418
+printed_030_rotated,EasyOCR,ini Ldigunakan untuk membandingkan Sistem OCR performa metode,2.5487
+printed_030_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3352
+printed_031_blur,Tesseract,Satam ini digunakan untuk membandingkan performa metoda OCR,0.4602
+printed_031_blur,EasyOCR,Sttominidunon natadoOca,2.2843
+printed_031_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.4824
+printed_031_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.37
+printed_031_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR-,2.5181
+printed_031_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOcR.,0.5038
+printed_031_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4936
+printed_031_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.568
+printed_031_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4604
+printed_031_rotated,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4047
+printed_031_rotated,EasyOCR,ini digunakan membandingkan Sistem metode OCR. performa untuk,2.3921
+printed_031_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.3374
+printed_032_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4228
+printed_032_blur,EasyOCR,ststen Intraigunakan untuk nenbandingkan pertorna Derode OCR .,2.8094
+printed_032_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR-,0.6474
+printed_032_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5259
+printed_032_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR _,2.7253
+printed_032_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.5964
+printed_032_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3966
+printed_032_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.6089
+printed_032_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.5924
+printed_032_rotated,Tesseract,kan untuk membandingkan performa sistem ini diguna metode OCR-,0.3807
+printed_032_rotated,EasyOCR,tuk membandingkan ini di -gunakan un Sistem metode OCR performa,2.5296
+printed_032_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.4857
+printed_033_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3942
+printed_033_blur,EasyOCR,ststen Intraigunakan untuk nerbandingkan pertorna necode OCR .,2.9087
+printed_033_blur,PaddleOCR,sistem ini digunakan untuk membandingkan performa metodeocR-,0.456
+printed_033_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5973
+printed_033_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR _,2.7951
+printed_033_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.5834
+printed_033_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4998
+printed_033_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.725
+printed_033_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.6621
+printed_033_rotated,Tesseract,sistem ini digunakan untuk membandingkan performa metode OCR-,0.6307
+printed_033_rotated,EasyOCR,untuk membandingkan Sistem ini di metode OCR. performa gunakan,2.5877
+printed_033_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode ocR.,0.4631
+printed_034_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5521
+printed_034_blur,EasyOCR,910r25 Ani Qiqunoun Unrur Eerdandingran Per{or roae OCr :,2.8042
+printed_034_blur,PaddleOCR,sistem ini digunakan untuk membandingkan performa metodeocR.,0.6488
+printed_034_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.367
+printed_034_dark,EasyOCR,sistem ini digunakan untuk membandingkan performa metode OCR,2.5468
+printed_034_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeocR.,0.565
+printed_034_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.391
+printed_034_normal,EasyOCR,sistem ini digunakan untuk membandingkan performa metode OCR,2.6713
+printed_034_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode ocR.,0.6789
+printed_034_rotated,Tesseract,sistem ini digunakan untuk membandingkan performa metode OCR-,0.6008
+printed_034_rotated,EasyOCR,ngkan digunakan untuk Sistem OCR . performa Inempandi ini mecode,2.8029
+printed_034_rotated,PaddleOCR,sistem ini digunakan untuk membandingkan performa metodeocR.,0.4895
+printed_035_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4338
+printed_035_blur,EasyOCR,Sistem Inl diqunakan untuk membandingkan portorma metodo OCR,2.6231
+printed_035_blur,PaddleOCR,Sistem ini digunakanuntuk membandingkan performa metodeOCR.,0.4393
+printed_035_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4507
+printed_035_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.4002
+printed_035_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4536
+printed_035_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4905
+printed_035_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.5208
+printed_035_normal,PaddleOCR,Sistem ini digunakan untukmembandingkan performa metodeOCR.,0.5545
+printed_035_rotated,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3906
+printed_035_rotated,EasyOCR,sistem ini digunakan untuk membandingkan metode OCR_ performa,2.2881
+printed_035_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4764
+printed_036_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4615
+printed_036_blur,EasyOCR,sistcm ini digunakap unluk mcmbandinekap perlorn nclode oCK,2.5301
+printed_036_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4206
+printed_036_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4404
+printed_036_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.7007
+printed_036_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.5326
+printed_036_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4894
+printed_036_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.6887
+printed_036_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4735
+printed_036_rotated,Tesseract,k membandingkan performa Sistem ini digunakan untu metode OCR.,0.526
+printed_036_rotated,EasyOCR,untuk membandingkan Sistem ini digunakan metode OCR. performa,2.3583
+printed_036_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4696
+printed_037_blur,Tesseract,ee ee 5...,0.4442
+printed_037_blur,EasyOCR,,2.3656
+printed_037_blur,PaddleOCR,Sastem ini digunakan nnak mebandingkan perform,0.6932
+printed_037_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3238
+printed_037_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR _,2.2663
+printed_037_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3383
+printed_037_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3599
+printed_037_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.3105
+printed_037_normal,PaddleOCR,metode OCR.,0.3054
+printed_037_rotated,Tesseract,,0.3308
+printed_037_rotated,EasyOCR,digunakan tnnuık membandingkan Sısten metode pertorma OCR,2.6556
+printed_037_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.4262
+printed_038_blur,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3827
+printed_038_blur,EasyOCR,Sistem Inl diqunakan untuk membandingkan portorma metodo OCR,2.4753
+printed_038_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.498
+printed_038_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4056
+printed_038_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.3866
+printed_038_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3913
+printed_038_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3938
+printed_038_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.6504
+printed_038_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.5498
+printed_038_rotated,Tesseract,Kk membandingkan performa Sistem ini digunakan untu! metode OCR.,0.4307
+printed_038_rotated,EasyOCR,Sistem ini digunakan membandingkan metode OCR. performa untuk,2.3233
+printed_038_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4854
+printed_039_blur,Tesseract,Setter #eunasan Untan membandings an pertorm + motets OCR,0.4595
+printed_039_blur,EasyOCR,Latei Oca,2.4508
+printed_039_blur,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metodeOCR.,0.3431
+printed_039_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.339
+printed_039_dark,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.5163
+printed_039_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.465
+printed_039_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3946
+printed_039_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,2.5047
+printed_039_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.4084
+printed_039_rotated,Tesseract,sistem ini digunakan untuk membandingkan performa metode OCR.,0.457
+printed_039_rotated,EasyOCR,mem ıbandingkan Sistem inı digunakan metode OCR. performa untuk,2.4717
+printed_039_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OcR.,0.4005
+printed_040_blur,Tesseract,mn Apaan ara oe te,0.5155
+printed_040_blur,EasyOCR,,2.3091
+printed_040_blur,PaddleOCR,Sisem ini digunacanwnkmebandingkam per frm metodeOCR,0.3986
+printed_040_dark,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.459
+printed_040_dark,EasyOCR,Sistem ini digunakan untuk 'membandingkan performa metode OCR.,2.3591
+printed_040_dark,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3817
+printed_040_normal,Tesseract,Sistem ini digunakan untuk membandingkan performa metode OCR.,0.3587
+printed_040_normal,EasyOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,2.8796
+printed_040_normal,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.3503
+printed_040_rotated,Tesseract,sistem ini digunakan untuk memb Ui OR metode,0.5211
+printed_040_rotated,EasyOCR,'membandingkan Sısten ı digunakan metode pcıforma untuk OCR,3.1613
+printed_040_rotated,PaddleOCR,Sistem ini digunakan untuk membandingkan performa metode OCR,0.3482
+printed_041_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5802
+printed_041_blur,EasyOCR,Tulisan tanoan memdk variasi bentuk yang lebinn Kompleks,2.4845
+printed_041_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4411
+printed_041_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4439
+printed_041_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks _,2.6281
+printed_041_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5195
+printed_041_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3449
+printed_041_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.9396
+printed_041_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4917
+printed_041_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3889
+printed_041_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan memiliki kompleks.,2.3733
+printed_041_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5651
+printed_042_blur,Tesseract,Telan tangan membihi | a oe bentuk + ang teh an an,0.4218
+printed_042_blur,EasyOCR,,2.3492
+printed_042_blur,PaddleOCR,Tulisan tangan memiid variad bentukyang ieba kompleks.,0.4503
+printed_042_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3731
+printed_042_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebib kompleks _,2.5983
+printed_042_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3893
+printed_042_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4151
+printed_042_normal,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.3594
+printed_042_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.393
+printed_042_rotated,Tesseract,“Tulisan tangan memiliki v ariasi bentuk yang lebih kompleks.,0.3781
+printed_042_rotated,EasyOCR,yang lebih tangan memiliki variasi7 Iulisan kompleks_ bentuk,2.5654
+printed_042_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,0.5067
+printed_043_blur,Tesseract,Tulisan tangan memiliki \ artasi bentuk yang lebih,0.3594
+printed_043_blur,EasyOCR,Iulsed [ereebWwul Siua )alekbi Plac,2.6943
+printed_043_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebib kompleks.,0.4086
+printed_043_dark,Tesseract,Tulisan tangan memiliki yariasi bentuk yang lebih kompleks.,0.4407
+printed_043_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.5156
+printed_043_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4953
+printed_043_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.376
+printed_043_normal,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.5189
+printed_043_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3296
+printed_043_rotated,Tesseract,“Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4275
+printed_043_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan memiliki kompleks.,2.488
+printed_043_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4519
+printed_044_blur,Tesseract,kompleks.,0.329
+printed_044_blur,EasyOCR,Tulisin Langan memihki vanasi bennk yang Iebih Kompleks,2.2746
+printed_044_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3116
+printed_044_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.503
+printed_044_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks _,2.4357
+printed_044_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4247
+printed_044_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3865
+printed_044_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.3441
+printed_044_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5025
+printed_044_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4172
+printed_044_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan kompleks . memiliki,2.3634
+printed_044_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.371
+printed_045_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4905
+printed_045_blur,EasyOCR,"rulican Cangen Perilaia 7ariaoiLeneukanglebin 1o5026o,",2.657
+printed_045_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5735
+printed_045_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4183
+printed_045_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.5851
+printed_045_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5557
+printed_045_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3833
+printed_045_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk Yang lebih kompleks,2.5935
+printed_045_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5581
+printed_045_rotated,Tesseract,kompleks. iki variasi bent uk yang lebih,0.392
+printed_045_rotated,EasyOCR,bentuk Yang Tuli tangan kompleks lebih variasi liki memi san,2.6054
+printed_045_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.612
+printed_046_blur,Tesseract,Tuksan tangan memiliki variasi bentuk yang lebih,0.388
+printed_046_blur,EasyOCR,Tulisan tangan memili variau bentuk Vanglebih Lomoleks,2.6929
+printed_046_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4038
+printed_046_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.427
+printed_046_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.5507
+printed_046_dark,PaddleOCR,Tulisan tanganmemiliki variasi bentuk yang lebih kompleks.,0.3162
+printed_046_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3646
+printed_046_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.4212
+printed_046_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4758
+printed_046_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4864
+printed_046_rotated,EasyOCR,"bentuk ,lebih Tulisan tangan yang variasi memiliki kompleks.",2.7258
+printed_046_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4039
+printed_047_blur,Tesseract,Tatan tangan memb | a ee bentuk ang beth ea,0.4281
+printed_047_blur,EasyOCR,,2.2033
+printed_047_blur,PaddleOCR,Tulisan tangan memid variad bentukyang leba kompleks.,0.3249
+printed_047_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.38
+printed_047_dark,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebib kompleks _,2.5952
+printed_047_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3327
+printed_047_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4454
+printed_047_normal,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.5874
+printed_047_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.2943
+printed_047_rotated,Tesseract,“Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4641
+printed_047_rotated,EasyOCR,rariasi bentuk yang lebih Tolisan tangan memiliki kompleks,2.5101
+printed_047_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3033
+printed_048_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3834
+printed_048_blur,EasyOCR,Tulisan tanoan memdk variasi bentuk yang lebih Komplers,2.6123
+printed_048_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4428
+printed_048_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4761
+printed_048_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks-,2.454
+printed_048_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3759
+printed_048_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3712
+printed_048_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.4449
+printed_048_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3901
+printed_048_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4317
+printed_048_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan memiliki kompleks.,2.5619
+printed_048_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3713
+printed_049_blur,Tesseract,"Tekan tangan memmlk: use run ""ang inte ea",0.5051
+printed_049_blur,EasyOCR,,2.2963
+printed_049_blur,PaddleOCR,Tuliaa tangam memilic varias bennk yang iebd kompleks,0.4234
+printed_049_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3736
+printed_049_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.4726
+printed_049_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3284
+printed_049_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4327
+printed_049_normal,EasyOCR,Tulisan tangan meniliki variasi bentuk yang lebih kompleks.,2.5109
+printed_049_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3786
+printed_049_rotated,Tesseract,‘Tutisan tangan memiliki Variasi bentuk yang lebih kompleks.,0.2894
+printed_049_rotated,EasyOCR,variasi bentuk yang lebıh Iulisan tangan memiliki kompleks,2.5632
+printed_049_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,0.2931
+printed_050_blur,Tesseract,Tatan tangan memb | a ee bentuk ang beth ea,0.5302
+printed_050_blur,EasyOCR,,2.0885
+printed_050_blur,PaddleOCR,Tulisan tangan memid variad bentukyang leba kompleks.,0.3467
+printed_050_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4407
+printed_050_dark,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebib kompleks _,2.3924
+printed_050_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3866
+printed_050_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3955
+printed_050_normal,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.5539
+printed_050_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3185
+printed_050_rotated,Tesseract,“Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4913
+printed_050_rotated,EasyOCR,rariasi bentuk yang lebih Tolisan tangan memiliki kompleks,2.3362
+printed_050_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.298
+printed_051_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5854
+printed_051_blur,EasyOCR,Tulisan tangan memilikl varlasi bontuk Yang lebih kompleks,2.6639
+printed_051_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5607
+printed_051_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4641
+printed_051_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks _,2.5562
+printed_051_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5287
+printed_051_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4811
+printed_051_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.3665
+printed_051_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5308
+printed_051_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.386
+printed_051_rotated,EasyOCR,memiliki variasi bentuk yang Tulisan tangan kompleks. lebih,2.5065
+printed_051_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4439
+printed_052_blur,Tesseract,Paman agen TEMA Kana bea yang tan co,0.4348
+printed_052_blur,EasyOCR,,2.2739
+printed_052_blur,PaddleOCR,tompieks,0.3206
+printed_052_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3637
+printed_052_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks _,2.3351
+printed_052_dark,PaddleOCR,Tulisan tanganmemiliki variasi bentuk yang lebih kompleks.,0.3752
+printed_052_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5174
+printed_052_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.5029
+printed_052_normal,PaddleOCR,Tulisan tanganmemiliki variasi bentuk yang lebih kompleks.,0.3865
+printed_052_rotated,Tesseract,miliki variasi bentuk yang lebih Tulisan tangan m kompleks.,0.3615
+printed_052_rotated,EasyOCR,memiliki variasi bentuk lebih Tulisan tangan kompleks Yang,2.4677
+printed_052_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3204
+printed_053_blur,Tesseract,Neen Lengan ment Le ett yang ete eoeees,0.4665
+printed_053_blur,EasyOCR,,2.1728
+printed_053_blur,PaddleOCR,lulisan tangan memilai variasi bentuk yang lebi kompleks,0.3485
+printed_053_dark,Tesseract,Tulisan tangan memil kompleks. ivariasi bentuk yang lebih,0.4797
+printed_053_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk Yang lebih kompleks-,2.4049
+printed_053_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5429
+printed_053_normal,Tesseract,variasi bentuk yang lebih kompleks.,0.5284
+printed_053_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.4163
+printed_053_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3996
+printed_053_rotated,Tesseract,ufisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3923
+printed_053_rotated,EasyOCR,memiliki variasi bentuk yang Tulisan tangan kompleks. lebih,2.2993
+printed_053_rotated,PaddleOCR,Tulisan tanganmemilikivariasi bentukyang lebih kompleks,0.2883
+printed_054_blur,Tesseract,Tatan tangan memb | a ee bentuk ang beth ea,0.3684
+printed_054_blur,EasyOCR,,2.2432
+printed_054_blur,PaddleOCR,Tulisan tangan memid variad bentukyang leba kompleks.,0.4403
+printed_054_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5054
+printed_054_dark,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebib kompleks _,2.4335
+printed_054_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.2857
+printed_054_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4492
+printed_054_normal,EasyOCR,Iulisan tangan memiliki variasi bentuk yang lebih kompleks.,2.517
+printed_054_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3141
+printed_054_rotated,Tesseract,“Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4493
+printed_054_rotated,EasyOCR,rariasi bentuk yang lebih Tolisan tangan memiliki kompleks,2.2718
+printed_054_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.2988
+printed_055_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,0.3553
+printed_055_blur,EasyOCR,"Nnoan {angan 365222n Y6ri8bi Denruk Yare iedar 1o5o1er,",2.8685
+printed_055_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks-,0.6329
+printed_055_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.381
+printed_055_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk Yang lebih kompleks,2.4903
+printed_055_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5492
+printed_055_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4485
+printed_055_normal,EasyOCR,Iulisan tangan memiliki variasi bentuk Yang lebih kompleks,2.5089
+printed_055_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.6554
+printed_055_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5211
+printed_055_rotated,EasyOCR,variasi bentuk Yang liki Iulisan tangan kompleks . lebih memi,3.0063
+printed_055_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5393
+printed_056_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4336
+printed_056_blur,EasyOCR,Tulisan tanoan memdk variasi bentuk yang lebih Komplers,2.5699
+printed_056_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5858
+printed_056_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4629
+printed_056_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks-,2.4891
+printed_056_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3406
+printed_056_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3526
+printed_056_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.448
+printed_056_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4047
+printed_056_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3603
+printed_056_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan memiliki kompleks.,2.2756
+printed_056_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3982
+printed_057_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih,0.5052
+printed_057_blur,EasyOCR,Tulison longen memii voriosi Dontun yong coin kompleny,2.7541
+printed_057_blur,PaddleOCR,Tulisan tanganmemiliki variasi bentuk yang lebih kompleks.,0.4378
+printed_057_dark,Tesseract,Tulisan tangan memi kompleks. variasi bentuk yang lebih,0.4124
+printed_057_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks-,2.49
+printed_057_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4572
+printed_057_normal,Tesseract,Tulisan tangan memi kompleks. variasi bentuk yang lebih,0.3948
+printed_057_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.2846
+printed_057_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4649
+printed_057_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3461
+printed_057_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan memiliki kompleks.,2.3975
+printed_057_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4486
+printed_058_blur,Tesseract,,0.2901
+printed_058_blur,EasyOCR,,2.1549
+printed_058_blur,PaddleOCR,Tulisan tangan memilikivariasi bentuk yang ebi kompleks,0.466
+printed_058_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3633
+printed_058_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.302
+printed_058_dark,PaddleOCR,Tulisan tanganmemiliki variasi bentuk yang lebih kompleks.,0.4396
+printed_058_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4111
+printed_058_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks_,2.4757
+printed_058_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,0.5271
+printed_058_rotated,Tesseract,iki variasi bentuk yang lebih Tutisan tangan mem kompleks.,0.4807
+printed_058_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan kompleks . memılıkı,2.4538
+printed_058_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4777
+printed_059_blur,Tesseract,Paman Aa TEMAN eae Pa yang eet em,0.3914
+printed_059_blur,EasyOCR,,2.1745
+printed_059_blur,PaddleOCR,Tulisan tanganmemidvariasi bentuk yang lebi kompleks,0.3247
+printed_059_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3452
+printed_059_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks _,2.3181
+printed_059_dark,PaddleOCR,Tulisan tangan memilikivariasi bentuk yang lebih kompleks.,0.3705
+printed_059_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.4476
+printed_059_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.5581
+printed_059_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebil kompleks.,0.3693
+printed_059_rotated,Tesseract,.rulisan tangan memilki variasi bentuk yang lebih kompleks.,0.3746
+printed_059_rotated,EasyOCR,variasi bentuk yang lebih Tulisan tangan kompleks memiliki,3.0906
+printed_059_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,0.371
+printed_060_blur,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3688
+printed_060_blur,EasyOCR,"7loan {angan 365221n Y6riab Denruk Yarg Ieden 1o5o1er,",2.8049
+printed_060_blur,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5901
+printed_060_dark,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.3805
+printed_060_dark,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.7555
+printed_060_dark,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5234
+printed_060_normal,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.393
+printed_060_normal,EasyOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks,2.5737
+printed_060_normal,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.7977
+printed_060_rotated,Tesseract,Tulisan tangan memiliki variasi bentuk yang lebih kompleks-,0.5571
+printed_060_rotated,EasyOCR,bentuk Yang Iulisan tangan kompleks _ lebih variasi memiliki,2.638
+printed_060_rotated,PaddleOCR,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.,0.5601
+printed_061_blur,Tesseract,Kondisi citra blur vey dan gelap dapat,0.597
+printed_061_blur,EasyOCR,Kondiu citra scoerh blur dan gclap dapat mempengaruhi hasl,2.4304
+printed_061_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4192
+printed_061_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3951
+printed_061_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4721
+printed_061_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3766
+printed_061_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3866
+printed_061_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4403
+printed_061_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.303
+printed_061_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3397
+printed_061_rotated,EasyOCR,blur dan dapat Kondisi citra hasil. gelap seperti mempengaruhi,2.5639
+printed_061_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3597
+printed_062_blur,Tesseract,Monae cra sepert tas Gan memcerga ss Nae —,0.3236
+printed_062_blur,EasyOCR,,2.4502
+printed_062_blur,PaddleOCR,Kondisi citra seperti biur dan gelap dapal mempengaruni hasi,0.3645
+printed_062_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.3661
+printed_062_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4872
+printed_062_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2997
+printed_062_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.45
+printed_062_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4258
+printed_062_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2938
+printed_062_rotated,Tesseract,(kondisi cra seperti blur dan gelap dapat mempengaruhi hasil,0.416
+printed_062_rotated,EasyOCR,Kondisi citra seperti blur dan mempengaruhi hasil: dapat gelap,2.332
+printed_062_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2959
+printed_063_blur,Tesseract,Kon ote sepert blu dan gelap dapat mempengar ah: hast =,0.5878
+printed_063_blur,EasyOCR,IonouoiNoenuyjC [Cid 0e0e,2.5881
+printed_063_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3441
+printed_063_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3898
+printed_063_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat memp 'pengaruhi hasil.,2.4308
+printed_063_dark,PaddleOCR,Kondisi citra seperti blur dangelap dapat mempengaruhi hasil.,0.5013
+printed_063_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3688
+printed_063_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat memp pengaruhi hasil.,2.3555
+printed_063_normal,PaddleOCR,Kondisi citra seperti blur dangelap dapat mempengaruhi hasil.,0.3519
+printed_063_rotated,Tesseract,i atra seperti blur dan gelap dapat Kondisi ruhi hasil. mempenga',0.6293
+printed_063_rotated,EasyOCR,blur dan dapat citra gelap seperti Kondisi hasil. mempengaruhi,2.6128
+printed_063_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4409
+printed_064_blur,Tesseract,enam ote an = tom rian tagat,0.4502
+printed_064_blur,EasyOCR,,2.3196
+printed_064_blur,PaddleOCR,Kondii ditra seperti blur dan gelap dapat gseyNnriudwau,0.2846
+printed_064_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3672
+printed_064_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil .,2.317
+printed_064_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3328
+printed_064_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4624
+printed_064_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4977
+printed_064_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.549
+printed_064_rotated,Tesseract,Kondisi tra seperti blur dan gelap dapat mempengaruhi hasil.,0.3965
+printed_064_rotated,EasyOCR,blur dan dapat citra hasil. gelap seperti ! Kondisi _ mempengaruhi,2.8736
+printed_064_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.4026
+printed_065_blur,Tesseract,Kondisi citra seperti biur dan gelap dapat mempengaruhi hasil.,0.3916
+printed_065_blur,EasyOCR,Kondisicitracoperi blur dan Qcieo depei ompongeruhi nesa,2.5842
+printed_065_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3994
+printed_065_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4523
+printed_065_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.7012
+printed_065_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2821
+printed_065_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3522
+printed_065_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.7261
+printed_065_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5007
+printed_065_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.431
+printed_065_rotated,EasyOCR,blur dan dapat Kondisi citra hasil. gelap seperti mempengaruhi,2.4571
+printed_065_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4134
+printed_066_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3851
+printed_066_blur,EasyOCR,"ona o? Ciera Geperei Biur Qan Qelap Qapae Dengauaa 86312,",2.8016
+printed_066_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.3677
+printed_066_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4207
+printed_066_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.5871
+printed_066_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3845
+printed_066_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4078
+printed_066_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasıl,2.5837
+printed_066_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5077
+printed_066_rotated,Tesseract,exe saperki bibir Ah gelap dapat Kondisi ci hi hasil. mempengaru!,0.4334
+printed_066_rotated,EasyOCR,blur dan dapat Kondisi cibz nasper mempengaruhi gelap seperti,2.5131
+printed_066_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4815
+printed_067_blur,Tesseract,Kamen coma Sapa da agan an daa —,0.3557
+printed_067_blur,EasyOCR,,2.3971
+printed_067_blur,PaddleOCR,Kondi citra seperti bi dan gelap dapa mempengaruhi hasl,0.2503
+printed_067_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3956
+printed_067_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hası,2.4372
+printed_067_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.2667
+printed_067_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3095
+printed_067_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,2.4864
+printed_067_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.301
+printed_067_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat pengaruhi hasil.,0.3609
+printed_067_rotated,EasyOCR,blur dan gelap dapat Kondisi cıtra hasil 'scperti mcipengaruli,2.4134
+printed_067_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.2455
+printed_068_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3968
+printed_068_blur,EasyOCR,Kondisi atra sepert blur dan Qclao dapat mempengaruhthasn,2.402
+printed_068_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.2794
+printed_068_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4178
+printed_068_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4527
+printed_068_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.378
+printed_068_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3735
+printed_068_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.6678
+printed_068_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3949
+printed_068_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4113
+printed_068_rotated,EasyOCR,blur dan dapat citra hasil . gelap seperti Kondisi mempengaruhi,2.3622
+printed_068_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2914
+printed_069_blur,Tesseract,seperti blur dan gelap dapat vanili. |,0.4732
+printed_069_blur,EasyOCR,,2.4354
+printed_069_blur,PaddleOCR,odep dete wwp mt Tados st Tetpuo TtewyTynaebuedeas,0.5932
+printed_069_dark,Tesseract,ndisi citra seperti blur di ur dan gelap dapat mempengaruhi hasil. 2,0.4585
+printed_069_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,2.7503
+printed_069_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4201
+printed_069_normal,Tesseract,ndisi citra seperti blur di ur dan gelap dapat mempengaruhi hasil. ii,0.4161
+printed_069_normal,EasyOCR,Kcad191 cicra seperti blur gelap dapat mempengaruni J2811. de?,2.4943
+printed_069_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.453
+printed_069_rotated,Tesseract,kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4123
+printed_069_rotated,EasyOCR,blur dan gelap dapar Scnd1sı Cicre nen? Jeperti has1l . engarun1,2.8112
+printed_069_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3858
+printed_070_blur,Tesseract,Ka co Lapan br da magang —,0.4579
+printed_070_blur,EasyOCR,,2.2358
+printed_070_blur,PaddleOCR,Kondiu cira seperti blur dan gelap dapat mempengaruhi hasil,0.4206
+printed_070_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4569
+printed_070_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhı hası.,2.58
+printed_070_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.2954
+printed_070_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5335
+printed_070_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasi.,2.4173
+printed_070_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.3573
+printed_070_rotated,Tesseract,“Kondisi citra seperti bur dan gelap dapat mempengaruhi hasil.,0.3731
+printed_070_rotated,EasyOCR,blur dan gelap dapat Kondisi citra hasil 'seperti mempengarulu_,2.5117
+printed_070_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.2407
+printed_071_blur,Tesseract,Ka co Lapan br da magang —,0.404
+printed_071_blur,EasyOCR,,2.1566
+printed_071_blur,PaddleOCR,Kondiu cira seperti blur dan gelap dapat mempengaruhi hasil,0.2038
+printed_071_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3736
+printed_071_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhı hası.,2.4664
+printed_071_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.224
+printed_071_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5906
+printed_071_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasi.,2.5196
+printed_071_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.3104
+printed_071_rotated,Tesseract,“Kondisi citra seperti bur dan gelap dapat mempengaruhi hasil.,0.3486
+printed_071_rotated,EasyOCR,blur dan gelap dapat Kondisi citra hasil 'seperti mempengarulu_,2.3872
+printed_071_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.2299
+printed_072_blur,Tesseract,Kondasi catra bar —_ dan gelap dapat,0.3516
+printed_072_blur,EasyOCR,Kouhuahabhedobclpdn,2.2939
+printed_072_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2629
+printed_072_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3024
+printed_072_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4334
+printed_072_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2725
+printed_072_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4003
+printed_072_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,2.3321
+printed_072_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.3715
+printed_072_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4189
+printed_072_rotated,EasyOCR,blur dan gelap dapat Kondisi citra seperti hasil. mcmpengaruhi,2.424
+printed_072_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2581
+printed_073_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3288
+printed_073_blur,EasyOCR,Kondisi citra soporti blur dan Qclap dapat mempengaruhi hash,2.45
+printed_073_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.358
+printed_073_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4659
+printed_073_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.5116
+printed_073_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.3346
+printed_073_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4133
+printed_073_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.4242
+printed_073_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4284
+printed_073_rotated,Tesseract,a seperti blur dan gelap dapat Kondisi citr hasil. mempengaruhi,0.4011
+printed_073_rotated,EasyOCR,blur dan gelap dapat Kondisi citra hasil. seperti mempengaruhi,2.5772
+printed_073_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3657
+printed_074_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4877
+printed_074_blur,EasyOCR,Konaaal (i plur Gan 0012p 8apae Dengaua? 95,2.9535
+printed_074_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.3429
+printed_074_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3418
+printed_074_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.5214
+printed_074_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3959
+printed_074_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4223
+printed_074_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasıl,2.5045
+printed_074_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3326
+printed_074_rotated,Tesseract,tra seperti blur dan gelap dapat Kondisi ci hi hasil. mempengarul,0.4336
+printed_074_rotated,EasyOCR,dapat blur dan citra hasil. mempengaruhi gelap seperti Kondisi,2.5752
+printed_074_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4923
+printed_075_blur,Tesseract,Koni citra seperti bur ps dan gelap dapat,0.4535
+printed_075_blur,EasyOCR,Konhaheonbhedblpd,2.4276
+printed_075_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,0.2333
+printed_075_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3715
+printed_075_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,2.6154
+printed_075_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3524
+printed_075_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5361
+printed_075_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,2.5661
+printed_075_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.2531
+printed_075_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4058
+printed_075_rotated,EasyOCR,blur dan gelap dapat citra seperti Kondisi hasil. mnempengaruhi,2.4707
+printed_075_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3115
+printed_076_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3001
+printed_076_blur,EasyOCR,rond2o: €alrd Oedefei Dlur Qn 88lop aapae Pengeruni hesiie,2.693
+printed_076_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.3853
+printed_076_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4517
+printed_076_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.6602
+printed_076_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3801
+printed_076_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4176
+printed_076_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,2.6003
+printed_076_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.4516
+printed_076_rotated,Tesseract,tra seperti blur dan gelap dapat Kondisi Ci hi hasil. mempengaru!,0.4057
+printed_076_rotated,EasyOCR,dapat blur dan citra hasil. mempengaruhi gelap seperti Kondisi,2.5563
+printed_076_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.3707
+printed_077_blur,Tesseract,Kondisi citra seperti blur dan mempengaruhi hasi. —,0.447
+printed_077_blur,EasyOCR,"Konosqu,socnbudinocuo Qo4 mcmocnonunhs",2.6245
+printed_077_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.453
+printed_077_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.74
+printed_077_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,5.2113
+printed_077_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.518
+printed_077_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.9295
+printed_077_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,4.3157
+printed_077_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.7479
+printed_077_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.8057
+printed_077_rotated,EasyOCR,blur dan dapat Kondisi citra hasil. gelap seperti mempengaruhi,4.7364
+printed_077_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.6816
+printed_078_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.8216
+printed_078_blur,EasyOCR,Kondisi citra soporti blur dan Qclap dapat mempengaruhi hash,4.5042
+printed_078_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.67
+printed_078_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.9531
+printed_078_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,4.3831
+printed_078_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.6159
+printed_078_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.8516
+printed_078_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,4.693
+printed_078_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.6346
+printed_078_rotated,Tesseract,a seperti blur dan gelap dapat Kondisi citr hasil. mempengaruhi,0.9573
+printed_078_rotated,EasyOCR,blur dan gelap dapat Kondisi citra hasil. seperti mempengaruhi,5.1159
+printed_078_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.6319
+printed_079_blur,Tesseract,Kondasi catra bar —_ dan gelap dapat,0.7359
+printed_079_blur,EasyOCR,Kouhuahabhedobclpdn,4.7452
+printed_079_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5042
+printed_079_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.7831
+printed_079_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,4.6054
+printed_079_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.7702
+printed_079_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.9151
+printed_079_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil,4.56
+printed_079_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.4983
+printed_079_rotated,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.9587
+printed_079_rotated,EasyOCR,blur dan gelap dapat Kondisi citra seperti hasil. mcmpengaruhi,4.7171
+printed_079_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.5283
+printed_080_blur,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,1.0399
+printed_080_blur,EasyOCR,Konaaal (i plur Gan 0012p 8apae Dengaua? 95,4.9301
+printed_080_blur,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhihasil.,0.8457
+printed_080_dark,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.9154
+printed_080_dark,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,4.945
+printed_080_dark,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.7297
+printed_080_normal,Tesseract,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.9569
+printed_080_normal,EasyOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasıl,4.5072
+printed_080_normal,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.7128
+printed_080_rotated,Tesseract,tra seperti blur dan gelap dapat Kondisi ci hi hasil. mempengarul,0.8905
+printed_080_rotated,EasyOCR,dapat blur dan citra hasil. mempengaruhi gelap seperti Kondisi,4.8213
+printed_080_rotated,PaddleOCR,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.,0.7447
+printed_081_blur,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.3427
+printed_081_blur,EasyOCR,"Pengujian In1 Dencakup angka 12385 dan Canda baca, seperei edn kona",5.5005
+printed_081_blur,PaddleOCR,seperti titik dan koma.,0.9804
+printed_081_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0286
+printed_081_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda ba seperti titik dan koma ca ,",5.4622
+printed_081_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0666
+printed_081_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9648
+printed_081_normal,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,5.2786
+printed_081_normal,PaddleOCR,"Pengujian ini mencakup angka l2345 dan tanda baca, seperti titik dan koma",0.8813
+printed_081_rotated,Tesseract,"pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9948
+printed_081_rotated,EasyOCR,dan tanda baca ini mencakup angka ian titik dan koma seperti 12345 Penguj,4.9054
+printed_081_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9849
+printed_082_blur,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7669
+printed_082_blur,EasyOCR,"Penqujian in1 nencakup angka 12345 dan [anda Daca, Seperei en ona",5.6609
+printed_082_blur,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8162
+printed_082_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8039
+printed_082_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",5.2565
+printed_082_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.2759
+printed_082_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9094
+printed_082_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",4.8909
+printed_082_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0399
+printed_082_rotated,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0456
+printed_082_rotated,EasyOCR,baca 12345 dan ian ini mencakup Penguj titik dan koma tanda angka seperti,4.9581
+printed_082_rotated,PaddleOCR,"Pengujian ini mencakup angka l2345 dan tanda baca, seperti titik dan koma.",0.7851
+printed_083_blur,Tesseract,"mencakup angka 12243 dan tanda baca, i 3 i",1.0015
+printed_083_blur,EasyOCR,,4.8217
+printed_083_blur,PaddleOCR,"Fengujian ini mencakup angka 12345 dan tanda baca, wwoxwwptaTsTasados",0.8946
+printed_083_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8255
+printed_083_dark,EasyOCR,"Penguj ini mencakup angka 12345 dan tanda baca, seperti titik dan kcma",4.8915
+printed_083_dark,PaddleOCR,Pengujian ini mencakup angka l2345 dan tanda baca seperti titik dan koma.,1.1381
+printed_083_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.812
+printed_083_normal,EasyOCR,"Penguj 1n1 Iencekup angka 12345 den tande bace, seperti titik da? Kcme",5.1701
+printed_083_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7457
+printed_083_rotated,Tesseract,pengujian ini mencakup angka 12345 dan tanda Pace tik dan koma. seperti ti!,0.9907
+printed_083_rotated,EasyOCR,"cande beca, 12345 den 222 Rencakup titik dan Kore angke Pengujian Jeperci",4.9703
+printed_083_rotated,PaddleOCR,"Pengujian ini mencakup angka l2345 dan tanda baca, seperti titik dan koma.",0.7415
+printed_084_blur,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0995
+printed_084_blur,EasyOCR,"Penguaanini cencakup Anoke 1aes dan Cond, Daco Creerereigan 4oae",5.6983
+printed_084_blur,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, wwoxuepayTardos",0.9439
+printed_084_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8864
+printed_084_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",4.9268
+printed_084_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8999
+printed_084_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8382
+printed_084_normal,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca Seperti titık dan koma,5.1839
+printed_084_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9282
+printed_084_rotated,Tesseract,"pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8929
+printed_084_rotated,EasyOCR,"baca, angka 12345 dan ian ini mencakup dan koma tanda Penguj titik Seperti",5.0261
+printed_084_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9152
+printed_085_blur,Tesseract,,0.7541
+printed_085_blur,EasyOCR,,4.0986
+printed_085_blur,PaddleOCR,eoee wpuws wep siczt wBue dnaeoua Tur wetCnBued woxwwpTTTado,1.1061
+printed_085_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9196
+printed_085_dark,EasyOCR,"Penguj ini menca angka 12345 dan tanda baca, seperti titik dan kcma kup",5.1535
+printed_085_dark,PaddleOCR,Pengujian ini mencakup angka l2345 dan tanda baca seperti titik dan koma.,0.8892
+printed_085_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8423
+printed_085_normal,EasyOCR,"Penguj 1n1 Iejcekup angka 12345 dan tanda baca, seperti titik daj kcna",5.0567
+printed_085_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7977
+printed_085_rotated,Tesseract,"pengujian ini mencakuP angka 12345 dan tanda baca, yk dan koma. seperti titi",0.9167
+printed_085_rotated,EasyOCR,acan angka 12345 daz 121 mencakup Citik de? kcna Eanda Perguj: Jederc:,5.0955
+printed_085_rotated,PaddleOCR,seperti titik dan koma.,0.8398
+printed_086_blur,Tesseract,"angka 12345 dan tanda baca,",1.7324
+printed_086_blur,EasyOCR,Feag Menhalp87( 17ns 02idelo,5.0645
+printed_086_blur,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,0.7224
+printed_086_dark,Tesseract,"ini mencakup angka 12345 dan tanda baca, Ik dan koma.",0.7869
+printed_086_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma-",4.5767
+printed_086_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8566
+printed_086_normal,Tesseract,"ini mencakup angka 12345 dan tanda baca, Ik dan koma.",0.8791
+printed_086_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma _",4.8265
+printed_086_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8098
+printed_086_rotated,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9966
+printed_086_rotated,EasyOCR,dan tanda baca - ini mencakup angka Pengrjianik danenoma. 12345 seperti,4.8233
+printed_086_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7447
+printed_087_blur,Tesseract,"angka 12345 dan tanda baca,",0.8306
+printed_087_blur,EasyOCR,Feag Menhalp87( 17ns 02idelo,4.9085
+printed_087_blur,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,0.6499
+printed_087_dark,Tesseract,"ini mencakup angka 12345 dan tanda baca, Ik dan koma.",0.9412
+printed_087_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma-",4.6463
+printed_087_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.6872
+printed_087_normal,Tesseract,"ini mencakup angka 12345 dan tanda baca, Ik dan koma.",0.8607
+printed_087_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma _",4.7129
+printed_087_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7811
+printed_087_rotated,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7596
+printed_087_rotated,EasyOCR,dan tanda baca - ini mencakup angka Pengrjianik danenoma. 12345 seperti,4.8357
+printed_087_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8472
+printed_088_blur,Tesseract,,0.6418
+printed_088_blur,EasyOCR,,4.1804
+printed_088_blur,PaddleOCR,eoee wpuws wep siczt wBue dnaeoua Tur wetCnBued woxwwpTTTado,0.839
+printed_088_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9786
+printed_088_dark,EasyOCR,"Penguj ini menca angka 12345 dan tanda baca, seperti titik dan kcma kup",5.0387
+printed_088_dark,PaddleOCR,Pengujian ini mencakup angka l2345 dan tanda baca seperti titik dan koma.,0.8735
+printed_088_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9581
+printed_088_normal,EasyOCR,"Penguj 1n1 Iejcekup angka 12345 dan tanda baca, seperti titik daj kcna",5.1242
+printed_088_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0232
+printed_088_rotated,Tesseract,"pengujian ini mencakuP angka 12345 dan tanda baca, yk dan koma. seperti titi",0.9108
+printed_088_rotated,EasyOCR,acan angka 12345 daz 121 mencakup Citik de? kcna Eanda Perguj: Jederc:,5.1224
+printed_088_rotated,PaddleOCR,seperti titik dan koma.,0.8108
+printed_089_blur,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8296
+printed_089_blur,EasyOCR,Pengujtan Inl mcncakup angka I2y4s dan landa Daca scpat MtAkdan Kona,5.193
+printed_089_blur,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8792
+printed_089_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.84
+printed_089_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma _",4.9315
+printed_089_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9927
+printed_089_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7773
+printed_089_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda seperti titik dan koma_ baca,",4.4817
+printed_089_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9768
+printed_089_rotated,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8609
+printed_089_rotated,EasyOCR,"12345 dan tanda baca, ini mencakup angka Pengujian dan koma. titik seperti",4.7293
+printed_089_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7728
+printed_090_blur,Tesseract,,0.6567
+printed_090_blur,EasyOCR,,4.1184
+printed_090_blur,PaddleOCR,eoeq epuuep srczi Bue deo nba woyepxnodas,0.773
+printed_090_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",1.0199
+printed_090_dark,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca_ seperti titik dan koma.,4.5973
+printed_090_dark,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,1.0193
+printed_090_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma,",0.73
+printed_090_normal,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma .,4.6664
+printed_090_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,0.8481
+printed_090_rotated,Tesseract,Pengujian ini mencakup angka 12345 dan tanda baca. sepert ttik dan Koma.,0.8575
+printed_090_rotated,EasyOCR,dan tanda baca mencakup angka Pengujian titik dan koma 12345 sepertı,4.6533
+printed_090_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",0.7071
+printed_091_blur,Tesseract,,0.7497
+printed_091_blur,EasyOCR,Penouninnimencanpanga 12ysaanlndabaco scocr dnlon,6.4363
+printed_091_blur,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,0.8364
+printed_091_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.246
+printed_091_dark,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca; seperti titik dan koma.,5.732
+printed_091_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",1.0138
+printed_091_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9193
+printed_091_normal,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca; seperti titik dan koma.,4.9002
+printed_091_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma,0.9413
+printed_091_rotated,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.09
+printed_091_rotated,EasyOCR,12345 dan tanda baca; ini mencakup angka Pengujan únianencaa seperti,4.5799
+printed_091_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",1.1618
+printed_092_blur,Tesseract,mews steep angts 11 945 don Leruta hana ma tan ma,1.0403
+printed_092_blur,EasyOCR,,4.4602
+printed_092_blur,PaddleOCR,Pengujian ini mencakup angia 12345 dan tanda baca seperti titik dan kom,0.7075
+printed_092_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9443
+printed_092_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma _",4.4382
+printed_092_dark,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,1.3038
+printed_092_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, sepert titik dan koma.",0.8875
+printed_092_normal,EasyOCR,Pengujian ini mencakup angka 12345 dan tanda baca_ seperti titik dan koma,5.2699
+printed_092_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,1.189
+printed_092_rotated,Tesseract,"baca, p angka 12345 dan tanda pengujian ini mencakuf titik dan koma. seperti",1.132
+printed_092_rotated,EasyOCR,"12345 dan tanda baca, ini mencakup angka titik dan koma Pengujian[ seperti",5.5604
+printed_092_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma",0.7898
+printed_093_blur,Tesseract,"i i Ini sencakup angka 12245 dan tanda basa,",0.9105
+printed_093_blur,EasyOCR,,4.4296
+printed_093_blur,PaddleOCR,"Fengujian ini mencakup angka 12345 dan tanda baca, sepertititikdan koma.",1.0306
+printed_093_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9358
+printed_093_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan kcma",5.3897
+printed_093_dark,PaddleOCR,"Pengujian ini mencakup angka l2345 dan tanda baca, seperti titik dan koma.",0.9871
+printed_093_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.3968
+printed_093_normal,EasyOCR,"Peaguj in1 Iejce angka 12345 dan tanda baca, seperti titik dan Kcme rp",5.5108
+printed_093_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8744
+printed_093_rotated,Tesseract,pengujian ani mencakup angka 12345 dan tanda Pacer cak dan koma. seperti ¢?,0.9631
+printed_093_rotated,EasyOCR,"12345 dan tanda baca, Iencakup angka Pengujian 1n1 Eitik da? kema . Jeperci",4.9793
+printed_093_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8833
+printed_094_blur,Tesseract,int 1,0.7575
+printed_094_blur,EasyOCR,Pengujian Inl mcncakup angka I2y4s dan landa Daca scpot MtAkdan Koma,5.1347
+printed_094_blur,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.2905
+printed_094_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9662
+printed_094_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",4.5523
+printed_094_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.148
+printed_094_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8149
+printed_094_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",5.1391
+printed_094_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.998
+printed_094_rotated,Tesseract,"ian ini mencakup angka 12345 dan tanda baca, Penguji titik dan koma. seperti",0.9523
+printed_094_rotated,EasyOCR,"dan tanda baca, ini mencakup angka titik dan koma. 12345 Pengujian seperti",5.1792
+printed_094_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.827
+printed_095_blur,Tesseract,"angka 12345 dan tanda baca, i",0.721
+printed_095_blur,EasyOCR,"Pengulian inimencakup 0neka 12345 dan tanda bace, scocrh bnk danloma",5.2561
+printed_095_blur,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,1.083
+printed_095_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.145
+printed_095_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca , seperti titik dan koma.",5.1219
+printed_095_dark,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,1.0288
+printed_095_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0624
+printed_095_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca , seperti titik dan koma.",7.9662
+printed_095_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,1.2882
+printed_095_rotated,Tesseract,"ian ini mencakup angka 12345 dan tanda baca, Penguj k dan koma. seperti titi",0.9858
+printed_095_rotated,EasyOCR,dan tanda baca ini mencakup angka Pengnjaniiniaencma. 12345 seperti,5.844
+printed_095_rotated,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,1.2326
+printed_096_blur,Tesseract,Pengajian Ini mencakup angka 12345 dan tanda bara oper wa dan hama,1.2119
+printed_096_blur,EasyOCR,,5.3278
+printed_096_blur,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca wpertitiikdan koma,0.9437
+printed_096_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.1788
+printed_096_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",4.7353
+printed_096_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8913
+printed_096_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.1734
+printed_096_normal,EasyOCR,"Pengujian ini mencakup 12345 dan tanda baca, seperti titik dan koma. angka",4.8085
+printed_096_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,0.8181
+printed_096_rotated,Tesseract,"jan ini mencakup angka 12345 dan tanda baca, Peng ti titik dan koma. seperi",1.652
+printed_096_rotated,EasyOCR,"12345 dan tanda baca, ini mencakup angka titik dan koma. Pengujian seperti",5.1272
+printed_096_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9982
+printed_097_blur,Tesseract,Penguran im mencabup angan 12341 dan tanda paca. vegan whe dan tome,1.0909
+printed_097_blur,EasyOCR,,4.4463
+printed_097_blur,PaddleOCR,Pengujian ini mencakup angka12345 dan tanda baca seperti ttik dan koma,1.2544
+printed_097_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7863
+printed_097_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma _",7.0586
+printed_097_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8981
+printed_097_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.1963
+printed_097_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma_",4.909
+printed_097_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,0.8767
+printed_097_rotated,Tesseract,"an ini mencakup angka 12345 dan tanda baca, Penguji: n Koma. seperti titik dal",1.0101
+printed_097_rotated,EasyOCR,"dan tanda baca, mencakup angka Pengujian titik dan koma 12345 seperti",4.9164
+printed_097_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8305
+printed_098_blur,Tesseract,"angka 12345 dan tanda baca, i",0.9054
+printed_098_blur,EasyOCR,"Pengulian inimencakup 0neka 12345 dan tanda bace, scocrh bnk danloma",4.8891
+printed_098_blur,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,0.9527
+printed_098_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8103
+printed_098_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca , seperti titik dan koma.",4.4241
+printed_098_dark,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,0.6616
+printed_098_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8093
+printed_098_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca , seperti titik dan koma.",4.7714
+printed_098_normal,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,0.8188
+printed_098_rotated,Tesseract,"ian ini mencakup angka 12345 dan tanda baca, Penguj k dan koma. seperti titi",0.9132
+printed_098_rotated,EasyOCR,dan tanda baca ini mencakup angka Pengnjaniiniaencma. 12345 seperti,4.4867
+printed_098_rotated,PaddleOCR,Pengujian ini mencakup angka 12345 dan tanda baca seperti titik dan koma.,0.7035
+printed_099_blur,Tesseract,,0.8112
+printed_099_blur,EasyOCR,,4.2625
+printed_099_blur,PaddleOCR,eoee wpuws wep siczt wBue dnaeoua Tur wetCnBued woxwwpTTTado,1.1043
+printed_099_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.9307
+printed_099_dark,EasyOCR,"Penguj ini menca angka 12345 dan tanda baca, seperti titik dan kcma kup",5.2699
+printed_099_dark,PaddleOCR,Pengujian ini mencakup angka l2345 dan tanda baca seperti titik dan koma.,0.981
+printed_099_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.7625
+printed_099_normal,EasyOCR,"Penguj 1n1 Iejcekup angka 12345 dan tanda baca, seperti titik daj kcna",5.1562
+printed_099_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8295
+printed_099_rotated,Tesseract,"pengujian ini mencakuP angka 12345 dan tanda baca, yk dan koma. seperti titi",1.1107
+printed_099_rotated,EasyOCR,acan angka 12345 daz 121 mencakup Citik de? kcna Eanda Perguj: Jederc:,5.1786
+printed_099_rotated,PaddleOCR,seperti titik dan koma.,0.8405
+printed_100_blur,Tesseract,Dn erat ane ener eng LINA en tanda ene,1.0626
+printed_100_blur,EasyOCR,,4.3491
+printed_100_blur,PaddleOCR,req epuep srtzt rque dnyouw ueinud rwoyuepwqdas,0.8886
+printed_100_dark,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8466
+printed_100_dark,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",4.9197
+printed_100_dark,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.8991
+printed_100_normal,Tesseract,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",1.0453
+printed_100_normal,EasyOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",4.553
+printed_100_normal,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.6222
+printed_100_rotated,Tesseract,"5 dan tanda baca,",0.8316
+printed_100_rotated,EasyOCR,"baca, angka 12345 dan Pengujian ini mencakap titik dan koma (anda seperti",4.728
+printed_100_rotated,PaddleOCR,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.",0.6343

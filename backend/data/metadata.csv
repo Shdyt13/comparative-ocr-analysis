@@ -1,0 +1,401 @@
+image_id,type,condition,image_path,ground_truth
+printed_001_blur,printed,blur,/app/data/02_processed/printed_001_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_001_dark,printed,dark,/app/data/02_processed/printed_001_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_001_normal,printed,normal,/app/data/02_processed/printed_001_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_001_rotated,printed,rotated,/app/data/02_processed/printed_001_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_002_blur,printed,blur,/app/data/02_processed/printed_002_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_002_dark,printed,dark,/app/data/02_processed/printed_002_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_002_normal,printed,normal,/app/data/02_processed/printed_002_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_002_rotated,printed,rotated,/app/data/02_processed/printed_002_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_003_blur,printed,blur,/app/data/02_processed/printed_003_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_003_dark,printed,dark,/app/data/02_processed/printed_003_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_003_normal,printed,normal,/app/data/02_processed/printed_003_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_003_rotated,printed,rotated,/app/data/02_processed/printed_003_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_004_blur,printed,blur,/app/data/02_processed/printed_004_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_004_dark,printed,dark,/app/data/02_processed/printed_004_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_004_normal,printed,normal,/app/data/02_processed/printed_004_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_004_rotated,printed,rotated,/app/data/02_processed/printed_004_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_005_blur,printed,blur,/app/data/02_processed/printed_005_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_005_dark,printed,dark,/app/data/02_processed/printed_005_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_005_normal,printed,normal,/app/data/02_processed/printed_005_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_005_rotated,printed,rotated,/app/data/02_processed/printed_005_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_006_blur,printed,blur,/app/data/02_processed/printed_006_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_006_dark,printed,dark,/app/data/02_processed/printed_006_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_006_normal,printed,normal,/app/data/02_processed/printed_006_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_006_rotated,printed,rotated,/app/data/02_processed/printed_006_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_007_blur,printed,blur,/app/data/02_processed/printed_007_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_007_dark,printed,dark,/app/data/02_processed/printed_007_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_007_normal,printed,normal,/app/data/02_processed/printed_007_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_007_rotated,printed,rotated,/app/data/02_processed/printed_007_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_008_blur,printed,blur,/app/data/02_processed/printed_008_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_008_dark,printed,dark,/app/data/02_processed/printed_008_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_008_normal,printed,normal,/app/data/02_processed/printed_008_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_008_rotated,printed,rotated,/app/data/02_processed/printed_008_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_009_blur,printed,blur,/app/data/02_processed/printed_009_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_009_dark,printed,dark,/app/data/02_processed/printed_009_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_009_normal,printed,normal,/app/data/02_processed/printed_009_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_009_rotated,printed,rotated,/app/data/02_processed/printed_009_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_010_blur,printed,blur,/app/data/02_processed/printed_010_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_010_dark,printed,dark,/app/data/02_processed/printed_010_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_010_normal,printed,normal,/app/data/02_processed/printed_010_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_010_rotated,printed,rotated,/app/data/02_processed/printed_010_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_011_blur,printed,blur,/app/data/02_processed/printed_011_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_011_dark,printed,dark,/app/data/02_processed/printed_011_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_011_normal,printed,normal,/app/data/02_processed/printed_011_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_011_rotated,printed,rotated,/app/data/02_processed/printed_011_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_012_blur,printed,blur,/app/data/02_processed/printed_012_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_012_dark,printed,dark,/app/data/02_processed/printed_012_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_012_normal,printed,normal,/app/data/02_processed/printed_012_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_012_rotated,printed,rotated,/app/data/02_processed/printed_012_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_013_blur,printed,blur,/app/data/02_processed/printed_013_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_013_dark,printed,dark,/app/data/02_processed/printed_013_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_013_normal,printed,normal,/app/data/02_processed/printed_013_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_013_rotated,printed,rotated,/app/data/02_processed/printed_013_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_014_blur,printed,blur,/app/data/02_processed/printed_014_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_014_dark,printed,dark,/app/data/02_processed/printed_014_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_014_normal,printed,normal,/app/data/02_processed/printed_014_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_014_rotated,printed,rotated,/app/data/02_processed/printed_014_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_015_blur,printed,blur,/app/data/02_processed/printed_015_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_015_dark,printed,dark,/app/data/02_processed/printed_015_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_015_normal,printed,normal,/app/data/02_processed/printed_015_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_015_rotated,printed,rotated,/app/data/02_processed/printed_015_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_016_blur,printed,blur,/app/data/02_processed/printed_016_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_016_dark,printed,dark,/app/data/02_processed/printed_016_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_016_normal,printed,normal,/app/data/02_processed/printed_016_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_016_rotated,printed,rotated,/app/data/02_processed/printed_016_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_017_blur,printed,blur,/app/data/02_processed/printed_017_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_017_dark,printed,dark,/app/data/02_processed/printed_017_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_017_normal,printed,normal,/app/data/02_processed/printed_017_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_017_rotated,printed,rotated,/app/data/02_processed/printed_017_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_018_blur,printed,blur,/app/data/02_processed/printed_018_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_018_dark,printed,dark,/app/data/02_processed/printed_018_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_018_normal,printed,normal,/app/data/02_processed/printed_018_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_018_rotated,printed,rotated,/app/data/02_processed/printed_018_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_019_blur,printed,blur,/app/data/02_processed/printed_019_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_019_dark,printed,dark,/app/data/02_processed/printed_019_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_019_normal,printed,normal,/app/data/02_processed/printed_019_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_019_rotated,printed,rotated,/app/data/02_processed/printed_019_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_020_blur,printed,blur,/app/data/02_processed/printed_020_blur.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_020_dark,printed,dark,/app/data/02_processed/printed_020_dark.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_020_normal,printed,normal,/app/data/02_processed/printed_020_normal.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_020_rotated,printed,rotated,/app/data/02_processed/printed_020_rotated.jpg,Ini adalah contoh kalimat pertama untuk pengujian OCR.
+printed_021_blur,printed,blur,/app/data/02_processed/printed_021_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_021_dark,printed,dark,/app/data/02_processed/printed_021_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_021_normal,printed,normal,/app/data/02_processed/printed_021_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_021_rotated,printed,rotated,/app/data/02_processed/printed_021_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_022_blur,printed,blur,/app/data/02_processed/printed_022_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_022_dark,printed,dark,/app/data/02_processed/printed_022_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_022_normal,printed,normal,/app/data/02_processed/printed_022_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_022_rotated,printed,rotated,/app/data/02_processed/printed_022_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_023_blur,printed,blur,/app/data/02_processed/printed_023_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_023_dark,printed,dark,/app/data/02_processed/printed_023_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_023_normal,printed,normal,/app/data/02_processed/printed_023_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_023_rotated,printed,rotated,/app/data/02_processed/printed_023_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_024_blur,printed,blur,/app/data/02_processed/printed_024_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_024_dark,printed,dark,/app/data/02_processed/printed_024_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_024_normal,printed,normal,/app/data/02_processed/printed_024_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_024_rotated,printed,rotated,/app/data/02_processed/printed_024_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_025_blur,printed,blur,/app/data/02_processed/printed_025_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_025_dark,printed,dark,/app/data/02_processed/printed_025_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_025_normal,printed,normal,/app/data/02_processed/printed_025_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_025_rotated,printed,rotated,/app/data/02_processed/printed_025_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_026_blur,printed,blur,/app/data/02_processed/printed_026_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_026_dark,printed,dark,/app/data/02_processed/printed_026_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_026_normal,printed,normal,/app/data/02_processed/printed_026_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_026_rotated,printed,rotated,/app/data/02_processed/printed_026_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_027_blur,printed,blur,/app/data/02_processed/printed_027_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_027_dark,printed,dark,/app/data/02_processed/printed_027_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_027_normal,printed,normal,/app/data/02_processed/printed_027_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_027_rotated,printed,rotated,/app/data/02_processed/printed_027_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_028_blur,printed,blur,/app/data/02_processed/printed_028_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_028_dark,printed,dark,/app/data/02_processed/printed_028_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_028_normal,printed,normal,/app/data/02_processed/printed_028_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_028_rotated,printed,rotated,/app/data/02_processed/printed_028_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_029_blur,printed,blur,/app/data/02_processed/printed_029_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_029_dark,printed,dark,/app/data/02_processed/printed_029_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_029_normal,printed,normal,/app/data/02_processed/printed_029_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_029_rotated,printed,rotated,/app/data/02_processed/printed_029_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_030_blur,printed,blur,/app/data/02_processed/printed_030_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_030_dark,printed,dark,/app/data/02_processed/printed_030_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_030_normal,printed,normal,/app/data/02_processed/printed_030_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_030_rotated,printed,rotated,/app/data/02_processed/printed_030_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_031_blur,printed,blur,/app/data/02_processed/printed_031_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_031_dark,printed,dark,/app/data/02_processed/printed_031_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_031_normal,printed,normal,/app/data/02_processed/printed_031_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_031_rotated,printed,rotated,/app/data/02_processed/printed_031_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_032_blur,printed,blur,/app/data/02_processed/printed_032_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_032_dark,printed,dark,/app/data/02_processed/printed_032_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_032_normal,printed,normal,/app/data/02_processed/printed_032_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_032_rotated,printed,rotated,/app/data/02_processed/printed_032_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_033_blur,printed,blur,/app/data/02_processed/printed_033_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_033_dark,printed,dark,/app/data/02_processed/printed_033_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_033_normal,printed,normal,/app/data/02_processed/printed_033_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_033_rotated,printed,rotated,/app/data/02_processed/printed_033_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_034_blur,printed,blur,/app/data/02_processed/printed_034_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_034_dark,printed,dark,/app/data/02_processed/printed_034_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_034_normal,printed,normal,/app/data/02_processed/printed_034_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_034_rotated,printed,rotated,/app/data/02_processed/printed_034_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_035_blur,printed,blur,/app/data/02_processed/printed_035_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_035_dark,printed,dark,/app/data/02_processed/printed_035_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_035_normal,printed,normal,/app/data/02_processed/printed_035_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_035_rotated,printed,rotated,/app/data/02_processed/printed_035_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_036_blur,printed,blur,/app/data/02_processed/printed_036_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_036_dark,printed,dark,/app/data/02_processed/printed_036_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_036_normal,printed,normal,/app/data/02_processed/printed_036_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_036_rotated,printed,rotated,/app/data/02_processed/printed_036_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_037_blur,printed,blur,/app/data/02_processed/printed_037_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_037_dark,printed,dark,/app/data/02_processed/printed_037_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_037_normal,printed,normal,/app/data/02_processed/printed_037_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_037_rotated,printed,rotated,/app/data/02_processed/printed_037_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_038_blur,printed,blur,/app/data/02_processed/printed_038_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_038_dark,printed,dark,/app/data/02_processed/printed_038_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_038_normal,printed,normal,/app/data/02_processed/printed_038_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_038_rotated,printed,rotated,/app/data/02_processed/printed_038_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_039_blur,printed,blur,/app/data/02_processed/printed_039_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_039_dark,printed,dark,/app/data/02_processed/printed_039_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_039_normal,printed,normal,/app/data/02_processed/printed_039_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_039_rotated,printed,rotated,/app/data/02_processed/printed_039_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_040_blur,printed,blur,/app/data/02_processed/printed_040_blur.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_040_dark,printed,dark,/app/data/02_processed/printed_040_dark.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_040_normal,printed,normal,/app/data/02_processed/printed_040_normal.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_040_rotated,printed,rotated,/app/data/02_processed/printed_040_rotated.jpg,Sistem ini digunakan untuk membandingkan performa metode OCR.
+printed_041_blur,printed,blur,/app/data/02_processed/printed_041_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_041_dark,printed,dark,/app/data/02_processed/printed_041_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_041_normal,printed,normal,/app/data/02_processed/printed_041_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_041_rotated,printed,rotated,/app/data/02_processed/printed_041_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_042_blur,printed,blur,/app/data/02_processed/printed_042_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_042_dark,printed,dark,/app/data/02_processed/printed_042_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_042_normal,printed,normal,/app/data/02_processed/printed_042_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_042_rotated,printed,rotated,/app/data/02_processed/printed_042_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_043_blur,printed,blur,/app/data/02_processed/printed_043_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_043_dark,printed,dark,/app/data/02_processed/printed_043_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_043_normal,printed,normal,/app/data/02_processed/printed_043_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_043_rotated,printed,rotated,/app/data/02_processed/printed_043_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_044_blur,printed,blur,/app/data/02_processed/printed_044_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_044_dark,printed,dark,/app/data/02_processed/printed_044_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_044_normal,printed,normal,/app/data/02_processed/printed_044_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_044_rotated,printed,rotated,/app/data/02_processed/printed_044_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_045_blur,printed,blur,/app/data/02_processed/printed_045_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_045_dark,printed,dark,/app/data/02_processed/printed_045_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_045_normal,printed,normal,/app/data/02_processed/printed_045_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_045_rotated,printed,rotated,/app/data/02_processed/printed_045_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_046_blur,printed,blur,/app/data/02_processed/printed_046_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_046_dark,printed,dark,/app/data/02_processed/printed_046_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_046_normal,printed,normal,/app/data/02_processed/printed_046_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_046_rotated,printed,rotated,/app/data/02_processed/printed_046_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_047_blur,printed,blur,/app/data/02_processed/printed_047_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_047_dark,printed,dark,/app/data/02_processed/printed_047_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_047_normal,printed,normal,/app/data/02_processed/printed_047_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_047_rotated,printed,rotated,/app/data/02_processed/printed_047_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_048_blur,printed,blur,/app/data/02_processed/printed_048_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_048_dark,printed,dark,/app/data/02_processed/printed_048_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_048_normal,printed,normal,/app/data/02_processed/printed_048_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_048_rotated,printed,rotated,/app/data/02_processed/printed_048_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_049_blur,printed,blur,/app/data/02_processed/printed_049_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_049_dark,printed,dark,/app/data/02_processed/printed_049_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_049_normal,printed,normal,/app/data/02_processed/printed_049_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_049_rotated,printed,rotated,/app/data/02_processed/printed_049_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_050_blur,printed,blur,/app/data/02_processed/printed_050_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_050_dark,printed,dark,/app/data/02_processed/printed_050_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_050_normal,printed,normal,/app/data/02_processed/printed_050_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_050_rotated,printed,rotated,/app/data/02_processed/printed_050_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_051_blur,printed,blur,/app/data/02_processed/printed_051_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_051_dark,printed,dark,/app/data/02_processed/printed_051_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_051_normal,printed,normal,/app/data/02_processed/printed_051_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_051_rotated,printed,rotated,/app/data/02_processed/printed_051_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_052_blur,printed,blur,/app/data/02_processed/printed_052_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_052_dark,printed,dark,/app/data/02_processed/printed_052_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_052_normal,printed,normal,/app/data/02_processed/printed_052_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_052_rotated,printed,rotated,/app/data/02_processed/printed_052_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_053_blur,printed,blur,/app/data/02_processed/printed_053_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_053_dark,printed,dark,/app/data/02_processed/printed_053_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_053_normal,printed,normal,/app/data/02_processed/printed_053_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_053_rotated,printed,rotated,/app/data/02_processed/printed_053_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_054_blur,printed,blur,/app/data/02_processed/printed_054_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_054_dark,printed,dark,/app/data/02_processed/printed_054_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_054_normal,printed,normal,/app/data/02_processed/printed_054_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_054_rotated,printed,rotated,/app/data/02_processed/printed_054_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_055_blur,printed,blur,/app/data/02_processed/printed_055_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_055_dark,printed,dark,/app/data/02_processed/printed_055_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_055_normal,printed,normal,/app/data/02_processed/printed_055_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_055_rotated,printed,rotated,/app/data/02_processed/printed_055_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_056_blur,printed,blur,/app/data/02_processed/printed_056_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_056_dark,printed,dark,/app/data/02_processed/printed_056_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_056_normal,printed,normal,/app/data/02_processed/printed_056_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_056_rotated,printed,rotated,/app/data/02_processed/printed_056_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_057_blur,printed,blur,/app/data/02_processed/printed_057_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_057_dark,printed,dark,/app/data/02_processed/printed_057_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_057_normal,printed,normal,/app/data/02_processed/printed_057_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_057_rotated,printed,rotated,/app/data/02_processed/printed_057_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_058_blur,printed,blur,/app/data/02_processed/printed_058_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_058_dark,printed,dark,/app/data/02_processed/printed_058_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_058_normal,printed,normal,/app/data/02_processed/printed_058_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_058_rotated,printed,rotated,/app/data/02_processed/printed_058_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_059_blur,printed,blur,/app/data/02_processed/printed_059_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_059_dark,printed,dark,/app/data/02_processed/printed_059_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_059_normal,printed,normal,/app/data/02_processed/printed_059_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_059_rotated,printed,rotated,/app/data/02_processed/printed_059_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_060_blur,printed,blur,/app/data/02_processed/printed_060_blur.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_060_dark,printed,dark,/app/data/02_processed/printed_060_dark.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_060_normal,printed,normal,/app/data/02_processed/printed_060_normal.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_060_rotated,printed,rotated,/app/data/02_processed/printed_060_rotated.jpg,Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+printed_061_blur,printed,blur,/app/data/02_processed/printed_061_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_061_dark,printed,dark,/app/data/02_processed/printed_061_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_061_normal,printed,normal,/app/data/02_processed/printed_061_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_061_rotated,printed,rotated,/app/data/02_processed/printed_061_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_062_blur,printed,blur,/app/data/02_processed/printed_062_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_062_dark,printed,dark,/app/data/02_processed/printed_062_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_062_normal,printed,normal,/app/data/02_processed/printed_062_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_062_rotated,printed,rotated,/app/data/02_processed/printed_062_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_063_blur,printed,blur,/app/data/02_processed/printed_063_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_063_dark,printed,dark,/app/data/02_processed/printed_063_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_063_normal,printed,normal,/app/data/02_processed/printed_063_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_063_rotated,printed,rotated,/app/data/02_processed/printed_063_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_064_blur,printed,blur,/app/data/02_processed/printed_064_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_064_dark,printed,dark,/app/data/02_processed/printed_064_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_064_normal,printed,normal,/app/data/02_processed/printed_064_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_064_rotated,printed,rotated,/app/data/02_processed/printed_064_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_065_blur,printed,blur,/app/data/02_processed/printed_065_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_065_dark,printed,dark,/app/data/02_processed/printed_065_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_065_normal,printed,normal,/app/data/02_processed/printed_065_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_065_rotated,printed,rotated,/app/data/02_processed/printed_065_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_066_blur,printed,blur,/app/data/02_processed/printed_066_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_066_dark,printed,dark,/app/data/02_processed/printed_066_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_066_normal,printed,normal,/app/data/02_processed/printed_066_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_066_rotated,printed,rotated,/app/data/02_processed/printed_066_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_067_blur,printed,blur,/app/data/02_processed/printed_067_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_067_dark,printed,dark,/app/data/02_processed/printed_067_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_067_normal,printed,normal,/app/data/02_processed/printed_067_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_067_rotated,printed,rotated,/app/data/02_processed/printed_067_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_068_blur,printed,blur,/app/data/02_processed/printed_068_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_068_dark,printed,dark,/app/data/02_processed/printed_068_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_068_normal,printed,normal,/app/data/02_processed/printed_068_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_068_rotated,printed,rotated,/app/data/02_processed/printed_068_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_069_blur,printed,blur,/app/data/02_processed/printed_069_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_069_dark,printed,dark,/app/data/02_processed/printed_069_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_069_normal,printed,normal,/app/data/02_processed/printed_069_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_069_rotated,printed,rotated,/app/data/02_processed/printed_069_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_070_blur,printed,blur,/app/data/02_processed/printed_070_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_070_dark,printed,dark,/app/data/02_processed/printed_070_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_070_normal,printed,normal,/app/data/02_processed/printed_070_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_070_rotated,printed,rotated,/app/data/02_processed/printed_070_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_071_blur,printed,blur,/app/data/02_processed/printed_071_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_071_dark,printed,dark,/app/data/02_processed/printed_071_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_071_normal,printed,normal,/app/data/02_processed/printed_071_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_071_rotated,printed,rotated,/app/data/02_processed/printed_071_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_072_blur,printed,blur,/app/data/02_processed/printed_072_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_072_dark,printed,dark,/app/data/02_processed/printed_072_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_072_normal,printed,normal,/app/data/02_processed/printed_072_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_072_rotated,printed,rotated,/app/data/02_processed/printed_072_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_073_blur,printed,blur,/app/data/02_processed/printed_073_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_073_dark,printed,dark,/app/data/02_processed/printed_073_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_073_normal,printed,normal,/app/data/02_processed/printed_073_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_073_rotated,printed,rotated,/app/data/02_processed/printed_073_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_074_blur,printed,blur,/app/data/02_processed/printed_074_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_074_dark,printed,dark,/app/data/02_processed/printed_074_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_074_normal,printed,normal,/app/data/02_processed/printed_074_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_074_rotated,printed,rotated,/app/data/02_processed/printed_074_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_075_blur,printed,blur,/app/data/02_processed/printed_075_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_075_dark,printed,dark,/app/data/02_processed/printed_075_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_075_normal,printed,normal,/app/data/02_processed/printed_075_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_075_rotated,printed,rotated,/app/data/02_processed/printed_075_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_076_blur,printed,blur,/app/data/02_processed/printed_076_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_076_dark,printed,dark,/app/data/02_processed/printed_076_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_076_normal,printed,normal,/app/data/02_processed/printed_076_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_076_rotated,printed,rotated,/app/data/02_processed/printed_076_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_077_blur,printed,blur,/app/data/02_processed/printed_077_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_077_dark,printed,dark,/app/data/02_processed/printed_077_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_077_normal,printed,normal,/app/data/02_processed/printed_077_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_077_rotated,printed,rotated,/app/data/02_processed/printed_077_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_078_blur,printed,blur,/app/data/02_processed/printed_078_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_078_dark,printed,dark,/app/data/02_processed/printed_078_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_078_normal,printed,normal,/app/data/02_processed/printed_078_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_078_rotated,printed,rotated,/app/data/02_processed/printed_078_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_079_blur,printed,blur,/app/data/02_processed/printed_079_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_079_dark,printed,dark,/app/data/02_processed/printed_079_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_079_normal,printed,normal,/app/data/02_processed/printed_079_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_079_rotated,printed,rotated,/app/data/02_processed/printed_079_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_080_blur,printed,blur,/app/data/02_processed/printed_080_blur.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_080_dark,printed,dark,/app/data/02_processed/printed_080_dark.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_080_normal,printed,normal,/app/data/02_processed/printed_080_normal.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_080_rotated,printed,rotated,/app/data/02_processed/printed_080_rotated.jpg,Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+printed_081_blur,printed,blur,/app/data/02_processed/printed_081_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_081_dark,printed,dark,/app/data/02_processed/printed_081_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_081_normal,printed,normal,/app/data/02_processed/printed_081_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_081_rotated,printed,rotated,/app/data/02_processed/printed_081_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_082_blur,printed,blur,/app/data/02_processed/printed_082_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_082_dark,printed,dark,/app/data/02_processed/printed_082_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_082_normal,printed,normal,/app/data/02_processed/printed_082_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_082_rotated,printed,rotated,/app/data/02_processed/printed_082_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_083_blur,printed,blur,/app/data/02_processed/printed_083_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_083_dark,printed,dark,/app/data/02_processed/printed_083_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_083_normal,printed,normal,/app/data/02_processed/printed_083_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_083_rotated,printed,rotated,/app/data/02_processed/printed_083_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_084_blur,printed,blur,/app/data/02_processed/printed_084_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_084_dark,printed,dark,/app/data/02_processed/printed_084_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_084_normal,printed,normal,/app/data/02_processed/printed_084_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_084_rotated,printed,rotated,/app/data/02_processed/printed_084_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_085_blur,printed,blur,/app/data/02_processed/printed_085_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_085_dark,printed,dark,/app/data/02_processed/printed_085_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_085_normal,printed,normal,/app/data/02_processed/printed_085_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_085_rotated,printed,rotated,/app/data/02_processed/printed_085_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_086_blur,printed,blur,/app/data/02_processed/printed_086_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_086_dark,printed,dark,/app/data/02_processed/printed_086_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_086_normal,printed,normal,/app/data/02_processed/printed_086_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_086_rotated,printed,rotated,/app/data/02_processed/printed_086_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_087_blur,printed,blur,/app/data/02_processed/printed_087_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_087_dark,printed,dark,/app/data/02_processed/printed_087_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_087_normal,printed,normal,/app/data/02_processed/printed_087_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_087_rotated,printed,rotated,/app/data/02_processed/printed_087_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_088_blur,printed,blur,/app/data/02_processed/printed_088_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_088_dark,printed,dark,/app/data/02_processed/printed_088_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_088_normal,printed,normal,/app/data/02_processed/printed_088_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_088_rotated,printed,rotated,/app/data/02_processed/printed_088_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_089_blur,printed,blur,/app/data/02_processed/printed_089_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_089_dark,printed,dark,/app/data/02_processed/printed_089_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_089_normal,printed,normal,/app/data/02_processed/printed_089_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_089_rotated,printed,rotated,/app/data/02_processed/printed_089_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_090_blur,printed,blur,/app/data/02_processed/printed_090_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_090_dark,printed,dark,/app/data/02_processed/printed_090_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_090_normal,printed,normal,/app/data/02_processed/printed_090_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_090_rotated,printed,rotated,/app/data/02_processed/printed_090_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_091_blur,printed,blur,/app/data/02_processed/printed_091_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_091_dark,printed,dark,/app/data/02_processed/printed_091_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_091_normal,printed,normal,/app/data/02_processed/printed_091_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_091_rotated,printed,rotated,/app/data/02_processed/printed_091_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_092_blur,printed,blur,/app/data/02_processed/printed_092_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_092_dark,printed,dark,/app/data/02_processed/printed_092_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_092_normal,printed,normal,/app/data/02_processed/printed_092_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_092_rotated,printed,rotated,/app/data/02_processed/printed_092_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_093_blur,printed,blur,/app/data/02_processed/printed_093_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_093_dark,printed,dark,/app/data/02_processed/printed_093_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_093_normal,printed,normal,/app/data/02_processed/printed_093_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_093_rotated,printed,rotated,/app/data/02_processed/printed_093_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_094_blur,printed,blur,/app/data/02_processed/printed_094_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_094_dark,printed,dark,/app/data/02_processed/printed_094_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_094_normal,printed,normal,/app/data/02_processed/printed_094_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_094_rotated,printed,rotated,/app/data/02_processed/printed_094_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_095_blur,printed,blur,/app/data/02_processed/printed_095_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_095_dark,printed,dark,/app/data/02_processed/printed_095_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_095_normal,printed,normal,/app/data/02_processed/printed_095_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_095_rotated,printed,rotated,/app/data/02_processed/printed_095_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_096_blur,printed,blur,/app/data/02_processed/printed_096_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_096_dark,printed,dark,/app/data/02_processed/printed_096_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_096_normal,printed,normal,/app/data/02_processed/printed_096_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_096_rotated,printed,rotated,/app/data/02_processed/printed_096_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_097_blur,printed,blur,/app/data/02_processed/printed_097_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_097_dark,printed,dark,/app/data/02_processed/printed_097_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_097_normal,printed,normal,/app/data/02_processed/printed_097_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_097_rotated,printed,rotated,/app/data/02_processed/printed_097_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_098_blur,printed,blur,/app/data/02_processed/printed_098_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_098_dark,printed,dark,/app/data/02_processed/printed_098_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_098_normal,printed,normal,/app/data/02_processed/printed_098_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_098_rotated,printed,rotated,/app/data/02_processed/printed_098_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_099_blur,printed,blur,/app/data/02_processed/printed_099_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_099_dark,printed,dark,/app/data/02_processed/printed_099_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_099_normal,printed,normal,/app/data/02_processed/printed_099_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_099_rotated,printed,rotated,/app/data/02_processed/printed_099_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_100_blur,printed,blur,/app/data/02_processed/printed_100_blur.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_100_dark,printed,dark,/app/data/02_processed/printed_100_dark.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_100_normal,printed,normal,/app/data/02_processed/printed_100_normal.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."
+printed_100_rotated,printed,rotated,/app/data/02_processed/printed_100_rotated.jpg,"Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma."

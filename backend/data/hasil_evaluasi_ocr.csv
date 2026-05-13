@@ -1,0 +1,9 @@
+Filename,Condition,Ground_Truth,Tess_Text,Tess_CER,Tess_WER,Tess_Time,Easy_Text,Easy_CER,Easy_WER,Easy_Time,Paddle_Text,Paddle_CER,Paddle_WER,Paddle_Time
+dummy_cetak_blur.png,Blur,Sistem monitoring konsumsi daya listrik,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.6644,Sistem monitoring konsumsi daya listrik,0.0,0.0,27.3666,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.8377
+dummy_cetak_dark.png,Dark,Sistem monitoring konsumsi daya listrik,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.7437,Sistem monitoring konsumsi daya listrik,0.0,0.0,16.4727,Sistem monitoring konsumsi daya listrik,0.0,0.0,1.6081
+dummy_cetak_normal.png,Normal,Sistem monitoring konsumsi daya listrik,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.5639,Sistem monitoring konsumsi daya listrik,0.0,0.0,15.6487,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.4436
+dummy_cetak_rotated.png,Rotated,Sistem monitoring konsumsi daya listrik,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.4726,konsumsi daya listrik Sistem monitoring,0.8718,0.8,16.0801,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.4191
+dummy_tulis_blur.png,Blur,Sistem monitoring konsumsi daya listrik,,1.0,1.0,1.0518,Sistem monitoring konsumsi listrik daya,0.2564,0.4,10.8837,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.2929
+dummy_tulis_dark.png,Dark,Sistem monitoring konsumsi daya listrik,,1.0,1.0,1.0308,Sistem monitoring konsumsi daya   listrik,0.0,0.0,12.5442,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.3501
+dummy_tulis_normal.png,Normal,Sistem monitoring konsumsi daya listrik,,1.0,1.0,1.3375,Sistem monitoring konsumsi listrik daya,0.2564,0.4,14.1458,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.3958
+dummy_tulis_rotated.png,Rotated,Sistem monitoring konsumsi daya listrik,,1.0,1.0,1.3966,konsumsi   daya listrik Sistem moniłoring,0.8718,0.8,13.0005,Sistem monitoring konsumsi daya listrik,0.0,0.0,0.3375

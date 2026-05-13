@@ -1,0 +1,9 @@
+1. Ini adalah contoh kalimat pertama untuk pengujian OCR.
+
+2. Sistem ini digunakan untuk membandingkan performa metode OCR.
+
+3. Tulisan tangan memiliki variasi bentuk yang lebih kompleks.
+
+4. Kondisi citra seperti blur dan gelap dapat mempengaruhi hasil.
+
+5. Pengujian ini mencakup angka 12345 dan tanda baca, seperti titik dan koma.

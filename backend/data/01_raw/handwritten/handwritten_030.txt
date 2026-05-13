@@ -1,0 +1,1 @@
+Sistem ini digunakan untuk membandingkan performa metode OCR.

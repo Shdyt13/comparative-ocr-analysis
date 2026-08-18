@@ -1,377 +1,270 @@
-# 🔍 OCR Eval-Pro: Analisis Komparatif Mesin OCR
+# OCR Eval-Pro: Analisis Komparatif Mesin OCR
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)
-![React](https://img.shields.io/badge/React-18.x-61DAFB.svg)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)
+Sistem *full-stack* untuk mengukur dan membandingkan performa tiga mesin *Optical Character Recognition* (OCR) — **Tesseract**, **EasyOCR**, dan **PaddleOCR** — dalam mengekstrak teks dari citra dokumen, lengkap dengan pipeline augmentasi citra, evaluasi metrik CER/WER, dan dashboard analitik interaktif.
 
-Repositori ini memuat sistem lengkap (*Backend*, *Frontend*, dan *Pipeline Evaluasi*) yang dikembangkan sebagai bagian dari penelitian skripsi untuk membandingkan performa berbagai mesin *Optical Character Recognition* (OCR) dalam mengekstrak teks dari citra.
+Repositori ini merupakan implementasi teknis dari proyek riset/skripsi perbandingan mesin OCR.
 
 ---
 
-# 🎯 Tujuan Penelitian
+## Tujuan Sistem
 
-Sistem ini dirancang untuk mengukur dan membandingkan ketahanan tiga arsitektur AI OCR secara otomatis:
+Mengukur ketahanan (*robustness*) tiga mesin OCR terhadap berbagai kondisi citra yang umum terjadi saat pemindaian atau pemotretan dokumen:
 
-1. **Tesseract OCR**  
-   Engine OCR klasik berbasis LSTM.
+| Kondisi | Deskripsi | Cara disimulasikan |
+|---|---|---|
+| Normal | Citra asli tanpa gangguan | — |
+| Blur | Kamera tidak fokus/goyang | Gaussian Blur (kernel 9x9) |
+| Dark | Pencahayaan rendah | Penurunan kecerahan & kontras |
+| Rotated | Dokumen miring saat difoto | Rotasi 5 derajat dengan latar putih |
 
-2. **EasyOCR**  
-   Framework OCR modern berbasis PyTorch.
+Metrik yang dihitung untuk tiap kombinasi (mesin OCR x kondisi citra):
 
-3. **PaddleOCR**  
-   Sistem OCR berkinerja tinggi dari Baidu.
-
-Metrik evaluasi yang digunakan meliputi:
-
-- **Character Error Rate (CER)**
-- **Word Error Rate (WER)**
-- **Processing Time**
-- **Robustness terhadap augmentasi citra**
-
-Pipeline evaluasi menguji gambar dalam berbagai kondisi:
-
-- Normal
-- Blur
-- Dark / Low Light
-- Rotated
+- **CER** (*Character Error Rate*)
+- **WER** (*Word Error Rate*)
+- **Processing Time** (waktu ekstraksi per gambar)
 
 ---
 
-# 🏗️ Arsitektur Sistem
+## Arsitektur Sistem
 
-## 🔹 Frontend
-- React.js
-- Vite
-- Recharts
-- Dashboard Analitik Interaktif
-
-## 🔹 Backend
-- FastAPI (Python)
-- REST API untuk evaluasi OCR dan visualisasi data
-
-## 🔹 OCR Engines
-- Tesseract OCR
-- EasyOCR
-- PaddleOCR
-
-## 🔹 Infrastruktur
-- Docker
-- Docker Compose
+```text
+┌───────────────────────────────────────────────────────────┐
+│                    FRONTEND — React                        │
+│   React 18 • React Router • Recharts • Vite                │
+│                      Port: 5173                              │
+└───────────────────────────┬─────────────────────────────────┘
+                            │ REST API (fetch, JSON)
+                            ▼
+┌───────────────────────────────────────────────────────────┐
+│                    BACKEND — FastAPI                        │
+│      Python 3.10 • FastAPI • Uvicorn                        │
+│                      Port: 8000                              │
+└───────────────────────────┬─────────────────────────────────┘
+                            │
+                            ▼
+┌───────────────────────────────────────────────────────────┐
+│                  OCR & EVALUATION PIPELINE                  │
+│  1. Augmentasi Citra (Blur, Dark, Rotated)                   │
+│  2. Pembangunan Metadata & Ground Truth                      │
+│  3. Ekstraksi Teks: Tesseract, EasyOCR, PaddleOCR             │
+│  4. Perhitungan Metrik CER & WER (via jiwer)                  │
+│  5. Agregasi & Insight Otomatis                               │
+└───────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 📂 Struktur Proyek
+## Alur Pipeline Evaluasi
 
-```bash
-ocr-skripsi-datok/
-│
+Pipeline offline (dijalankan sekali di awal untuk membangun dataset evaluasi):
+
+1. **`src/augmentation.py`** — membaca gambar `*_normal.jpg` di `backend/data/02_processed/`, menghasilkan varian `_blur`, `_dark`, dan `_rotated` untuk masing-masing.
+2. **`src/build_metadata.py`** — memindai seluruh gambar hasil augmentasi, mencocokkannya dengan teks acuan (*ground truth*) di `backend/data/01_raw/printed/*.txt`, lalu menulis `backend/data/metadata.csv`.
+3. **`src/ocr_pipeline.py`** — menjalankan ketiga mesin OCR pada setiap gambar di `metadata.csv`, menyimpan hasil ekstraksi teks & waktu proses ke `backend/data/ocr_results.csv`.
+4. **`src/evaluate_metrics.py`** — membandingkan `ocr_results.csv` dengan *ground truth*, menghitung CER/WER per baris menggunakan `jiwer`, dan menulis `backend/data/evaluation_metrics.csv`.
+
+Dashboard memicu ulang **tahap 4** (perhitungan metrik) secara langsung melalui endpoint `/run-pipeline`; tahap 1-3 saat ini disajikan sebagai simulasi progres dari data yang sudah tersedia (lihat bagian API di bawah).
+
+> **Cakupan dataset saat ini:** folder `backend/data/02_processed/` berisi 400 gambar (100 dokumen printed x 4 kondisi). Teks acuan untuk data *handwritten* juga tersedia di `backend/data/01_raw/handwritten/`, tetapi belum ada gambar hasil augmentasi untuk kategori ini — sehingga evaluasi yang berjalan saat ini mencakup kategori **printed** saja.
+
+---
+
+## API Backend (FastAPI)
+
+Dokumentasi interaktif (Swagger UI) tersedia otomatis di `http://localhost:8000/docs`.
+
+| Method | Endpoint | Fungsi |
+|---|---|---|
+| GET | `/` | Health check sederhana |
+| POST | `/ocr/predict` | Uji coba OCR langsung (upload 1 gambar, dijalankan pada ketiga mesin secara *live*) |
+| POST | `/run-pipeline` | Memicu ulang tahap evaluasi metrik di latar belakang (*background task*) |
+| GET | `/pipeline-status` | Status pipeline saat ini (`is_running`, `current_step`, `message`) |
+| POST | `/reset-pipeline` | Mereset status pipeline ke kondisi awal |
+| GET | `/metrics/summary` | Rata-rata CER, WER, dan waktu proses per mesin OCR |
+| GET | `/metrics/by-type` | Rata-rata CER per mesin OCR, dikelompokkan berdasarkan jenis teks |
+| GET | `/metrics/by-condition` | Rata-rata CER per mesin OCR, dikelompokkan berdasarkan kondisi citra (normal/blur/dark/rotated) |
+| GET | `/insights` | Kesimpulan otomatis (mesin paling akurat, paling cepat, dan trade-off di antaranya) |
+| GET | `/results` | Seluruh baris data evaluasi mentah dari `evaluation_metrics.csv` |
+
+---
+
+## Dashboard Frontend
+
+Navigasi berbasis React Router dengan empat halaman:
+
+| Halaman | Rute | Isi |
+|---|---|---|
+| Dashboard | `/` | Ringkasan performa global, tombol jalankan/reset pipeline, grafik perbandingan CER/WER |
+| Performance Analysis | `/performance` | Tren ketahanan tiap mesin OCR terhadap kondisi citra (normal/blur/dark/rotated) |
+| Result Visualization | `/visualization` | Tabel hasil evaluasi mentah dengan pencarian |
+| Efficiency & Insights | `/efficiency` | Perbandingan rata-rata waktu proses dan kesimpulan otomatis |
+
+Setiap halaman mengambil data langsung dari API backend (`http://localhost:8000`) menggunakan `fetch`.
+
+---
+
+## Struktur Proyek
+
+```text
+comparative-ocr-analysis/
 ├── backend/
 │   ├── api/
+│   │   ├── main.py                # Entry point FastAPI, endpoint /ocr/predict
+│   │   └── routes/
+│   │       └── evaluate.py        # Endpoint pipeline & metrik (/run-pipeline, /metrics/*, /insights, /results)
 │   ├── data/
+│   │   ├── 01_raw/                # Gambar & ground truth asli (printed, handwritten)
+│   │   ├── 02_processed/          # Gambar hasil augmentasi (normal, blur, dark, rotated)
+│   │   ├── metadata.csv           # Metadata gabungan gambar + ground truth
+│   │   ├── ocr_results.csv        # Hasil ekstraksi teks mentah dari ketiga mesin OCR
+│   │   ├── evaluation_metrics.csv # Metrik CER/WER/waktu per gambar per mesin (dipakai dashboard)
+│   │   └── hasil_evaluasi_ocr.csv # Output dari script evaluasi lama (evaluation.py, legacy)
 │   ├── src/
+│   │   ├── ocr_engines.py         # Wrapper Tesseract, EasyOCR, PaddleOCR
+│   │   ├── augmentation.py        # Pembuatan varian blur/dark/rotated
+│   │   ├── build_metadata.py      # Penyusunan metadata.csv
+│   │   ├── ocr_pipeline.py        # Ekstraksi teks massal -> ocr_results.csv
+│   │   ├── evaluate_metrics.py    # Perhitungan CER/WER -> evaluation_metrics.csv (dipakai API)
+│   │   └── evaluation.py          # Script evaluasi mandiri versi awal (legacy, ground truth hardcoded)
 │   ├── Dockerfile
 │   └── requirements.txt
 │
 ├── frontend/
-│   ├── public/
 │   ├── src/
+│   │   ├── App.jsx                # Layout, sidebar, dan routing
+│   │   ├── main.jsx
+│   │   └── pages/
+│   │       ├── Dashboard.jsx
+│   │       ├── Performance.jsx
+│   │       ├── Visualization.jsx
+│   │       └── Efficiency.jsx
 │   ├── Dockerfile
 │   └── package.json
 │
-├── docker-compose.yml
+├── Kalimat handwritten.txt        # Catatan/daftar kalimat acuan untuk data handwritten
+├── docker-compose.yml             # Orkestrasi service backend & frontend
 └── README.md
 ```
 
----
-
-# ⚙️ Fitur Utama
-
-✅ Evaluasi otomatis multi-engine OCR  
-✅ Perhitungan CER dan WER  
-✅ Visualisasi performa OCR secara interaktif  
-✅ Augmentasi dataset otomatis  
-✅ Analisis robustness OCR terhadap noise  
-✅ Dashboard analitik real-time  
-✅ Arsitektur containerized menggunakan Docker  
+> **Catatan:** `src/evaluation.py` adalah versi awal script evaluasi (ground truth di-*hardcode* untuk dua file dummy) dan tidak terhubung ke API — pipeline yang aktif dipakai dashboard adalah `build_metadata.py` -> `ocr_pipeline.py` -> `evaluate_metrics.py`.
 
 ---
 
-# 🚀 Cara Menjalankan Sistem
+## Tech Stack
 
-## 📌 Persyaratan Sistem
+| Kategori | Teknologi |
+|---|---|
+| Frontend | React 18, React Router, Vite, Recharts, Lucide Icons |
+| Backend | Python 3.10, FastAPI, Uvicorn |
+| OCR Engine | Tesseract OCR (`pytesseract`), EasyOCR (PyTorch), PaddleOCR |
+| Pengolahan Citra | OpenCV (`opencv-python-headless`) |
+| Evaluasi Teks | jiwer (CER/WER) |
+| DevOps | Docker, Docker Compose |
 
-Pastikan perangkat telah menginstal:
+---
 
-- Docker Desktop
-- Docker Compose
+## Cara Menjalankan
+
+### Prasyarat
+
+- Docker Desktop & Docker Compose
 - Git
-
-Cek instalasi dengan perintah:
 
 ```bash
 docker --version
 docker compose version
-git --version
 ```
 
----
-
-# 🔽 1. Clone Repository
+### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username-anda/ocr-skripsi-datok.git
-cd ocr-skripsi-datok
+git clone <url-repositori-anda>
+cd comparative-ocr-analysis
 ```
 
----
-
-# 🐳 2. Build dan Jalankan Container
-
-Jalankan seluruh sistem menggunakan Docker Compose:
+### 2. Build & Jalankan via Docker Compose
 
 ```bash
 docker-compose up --build
 ```
 
-Atau untuk Docker Compose versi baru:
+Perintah ini akan membangun dan menjalankan kedua service sekaligus:
 
-```bash
-docker compose up --build
-```
+- Backend FastAPI (image berbasis `python:3.10-slim`, menginstal Tesseract + paket bahasa Indonesia via `apt-get`)
+- Frontend React/Vite (image berbasis `node:20-alpine`)
 
-Perintah ini akan:
-
-✅ Build backend FastAPI  
-✅ Build frontend React  
-✅ Menginstal dependency OCR  
-✅ Menjalankan seluruh service otomatis  
-
----
-
-# 🌐 3. Akses Sistem
-
-Setelah container berhasil berjalan:
+### 3. Akses Sistem
 
 | Service | URL |
 |---|---|
-| Frontend Dashboard | http://localhost:5173 |
-| Backend API | http://localhost:8000 |
-| Swagger API Docs | http://localhost:8000/docs |
+| Frontend Dashboard | `http://localhost:5173` |
+| Backend API | `http://localhost:8000` |
+| Swagger API Docs | `http://localhost:8000/docs` |
 
----
+### 4. Menjalankan Ulang Pipeline Evaluasi
 
-# ▶️ 4. Menjalankan Pipeline Evaluasi OCR
+Klik tombol jalankan pipeline pada halaman **Dashboard** — ini memanggil `POST /run-pipeline` yang mengeksekusi `src/evaluate_metrics.py` di dalam container backend dan memperbarui `evaluation_metrics.csv`. Progres dapat dipantau melalui `GET /pipeline-status`.
 
-Pipeline OCR dapat dijalankan melalui backend API atau langsung melalui container backend.
-
-## Masuk ke Container Backend
+Untuk membangun ulang dataset dari awal (augmentasi, metadata, dan ekstraksi OCR massal), jalankan skrip berikut secara manual di dalam container backend:
 
 ```bash
-docker exec -it ocr-backend bash
-```
+docker exec -it ocr_backend bash
 
----
-
-## Jalankan Pipeline OCR
-
-```bash
+python src/augmentation.py
+python src/build_metadata.py
 python src/ocr_pipeline.py
-```
-
-Pipeline akan:
-
-1. Membaca dataset gambar
-2. Melakukan augmentasi citra
-3. Menjalankan OCR:
-   - Tesseract
-   - EasyOCR
-   - PaddleOCR
-4. Menyimpan hasil OCR ke CSV
-
----
-
-# 📊 5. Menjalankan Evaluasi Metrik
-
-Untuk menghitung CER dan WER:
-
-```bash
 python src/evaluate_metrics.py
 ```
 
-Hasil evaluasi akan disimpan ke:
-
-```bash
-backend/data/evaluation_metrics.csv
-```
-
----
-
-# 📈 6. Melihat Dashboard Analitik
-
-Buka browser:
-
-```bash
-http://localhost:5173
-```
-
-Dashboard akan menampilkan:
-
-- Perbandingan CER
-- Perbandingan WER
-- Analisis kecepatan OCR
-- Grafik robustness
-- Ranking performa OCR
-
----
-
-# 🛑 Menghentikan Sistem
-
-Tekan:
-
-```bash
-CTRL + C
-```
-
-Lalu hentikan container:
+### Menghentikan Sistem
 
 ```bash
 docker-compose down
 ```
 
----
-
-# 🔄 Menjalankan Ulang Setelah Perubahan Kode
-
-Jika ada perubahan dependency atau Dockerfile:
+### Menjalankan Ulang Setelah Perubahan Kode
 
 ```bash
+# Jika ada perubahan dependency/Dockerfile
 docker-compose up --build
-```
 
-Jika hanya perubahan kode biasa:
-
-```bash
+# Jika hanya perubahan kode
 docker-compose restart
 ```
 
 ---
 
-# 🧪 Metodologi Evaluasi
+## Format Dataset
 
-Pipeline sistem bekerja dengan tahapan berikut:
+Gambar hasil augmentasi mengikuti pola penamaan:
 
-1. Memuat dataset gambar dan ground truth
-2. Melakukan augmentasi citra
-3. Menjalankan OCR menggunakan:
-   - Tesseract
-   - EasyOCR
-   - PaddleOCR
-4. Menghitung:
-   - CER
-   - WER
-   - Waktu komputasi
-5. Menyimpan hasil evaluasi ke CSV
-6. Memvisualisasikan hasil pada dashboard
-
----
-
-# 📈 Dashboard Analitik
-
-Dashboard frontend menyediakan visualisasi:
-
-- Perbandingan CER antar OCR
-- Perbandingan WER antar OCR
-- Analisis kecepatan komputasi
-- Grafik robustness terhadap blur/dark/rotation
-- Ranking performa OCR
-
----
-
-# 🧪 Dataset & Augmentasi
-
-Dataset dibagi menjadi dua kategori:
-
-## ✍️ Handwritten
-Teks tulisan tangan.
-
-## 🖨️ Printed
-Teks hasil cetakan.
-
-Setiap gambar diuji dengan beberapa augmentasi:
-
-| Augmentasi | Deskripsi |
-|---|---|
-| Normal | Tanpa perubahan |
-| Blur | Simulasi gambar buram |
-| Dark | Simulasi pencahayaan rendah |
-| Rotated | Simulasi rotasi dokumen |
-
----
-
-# 🐳 Teknologi yang Digunakan
-
-| Teknologi | Fungsi |
-|---|---|
-| FastAPI | Backend API |
-| React.js | Frontend Dashboard |
-| Recharts | Visualisasi Grafik |
-| Docker | Containerization |
-| Tesseract | OCR Engine |
-| EasyOCR | OCR Engine |
-| PaddleOCR | OCR Engine |
-
----
-
-# 🧠 Insight Penelitian
-
-Sistem ini membantu menghasilkan insight otomatis mengenai:
-
-- OCR paling akurat
-- OCR paling cepat
-- OCR paling tahan terhadap noise
-- Pengaruh augmentasi terhadap performa OCR
-
----
-
-# 📝 Format Commit Profesional
-
-Gunakan gaya commit berbasis **Semantic Commit Message**.
-
-## ✨ Feature Baru
-```bash
-feat: menambahkan endpoint kalkulasi CER dan WER
+```text
+<tipe>_<id>_<kondisi>.<ekstensi>
+# contoh: printed_001_normal.jpg, printed_001_blur.jpg
 ```
 
-## 🐛 Perbaikan Bug
-```bash
-fix: memperbaiki error parsing hasil OCR PaddleOCR
-```
-
-## 📚 Dokumentasi
-```bash
-docs: memperbarui struktur README dan arsitektur sistem
-```
-
-## ⚙️ Konfigurasi / Maintenance
-```bash
-chore: menambahkan docker-compose dan konfigurasi environment
-```
+Ground truth disimpan sebagai file `.txt` terpisah di `backend/data/01_raw/<tipe>/`, dengan nama `<tipe>_<id>.txt` (contoh: `printed_001.txt`), berisi teks asli dari gambar yang bersangkutan.
 
 ---
 
-# 👨‍💻 Developer
+## Keterbatasan yang Diketahui
 
-**Sapar Hidayat**  
-*(Datok Tanjak Kuneng Laot)*
-
-📍 Tanjungpinang, Kepulauan Riau  
-🎓 Proyek Skripsi  
+1. Kategori **handwritten** memiliki ground truth teks, tetapi belum ada gambar hasil augmentasi di `02_processed/` sehingga belum ikut dievaluasi oleh pipeline saat ini.
+2. URL API di setiap halaman frontend (`http://localhost:8000`) di-*hardcode*, belum menggunakan variabel lingkungan.
+3. `POST /run-pipeline` hanya benar-benar mengeksekusi ulang tahap perhitungan metrik (`evaluate_metrics.py`); tahap augmentasi, pembangunan metadata, dan ekstraksi OCR ditampilkan sebagai simulasi progres dari data yang sudah ada, bukan dijalankan ulang secara live.
+4. `src/evaluation.py` adalah script evaluasi versi awal dengan ground truth *hardcode* dan tidak digunakan oleh API/dashboard — dipertahankan di repositori sebagai riwayat pengembangan.
+5. Semua mesin OCR berjalan pada CPU (tanpa GPU), sehingga waktu proses PaddleOCR dan EasyOCR relatif lebih lambat dibanding penggunaan dengan akselerasi GPU.
 
 ---
 
-# 📜 Lisensi
+## Penulis
+
+**Sapar Hidayat**
+Tanjungpinang, Kepulauan Riau
+Proyek Skripsi — Perbandingan Kinerja Mesin OCR
+
+---
+
+## Lisensi
 
 Proyek ini dikembangkan untuk kebutuhan penelitian akademik dan skripsi.
-
----
